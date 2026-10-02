@@ -1,4 +1,4 @@
-[Intro: G  D  C  G] x2
+[Intro: G D C G] x2
 G
 Estaba entusiasmado como rey en los caminos
 yo que nunca hasta ahora de mi barrio había salido
@@ -6,19 +6,19 @@ estaba ejercitando una garganta desprolija
 fue un chiste fue la vida o una mueca del destino
 F
 Estaba empezando a preguntarme cosas raras
-    C
+C
 que busca la gente cuando uno solo canta
-     G
+G
 sera la necesidad de no sentirse nadie
-    D
+D
 soy uno mas de ellos y menos uno en casa
-   F
+F
 La vida dibujo una sonrisa en mi cara
-     C
+C
 y en un minuto triste la borro como si nada
- G    D    F      C    A#      G
+G D F C A# G
 hay de mi, hay de vos, hay de todos
-G  D  C  G
+G D C G
 G
 Estaba jugando a extender mi único sueño
 mi sangre despertaba en el crepúsculo del día
@@ -27,4 +27,4 @@ si era buen amante tormentoso callejero
 F
 Estaba despidiendo viejas penas en la vida
 C
-Estaba
+Estaba descubriendo el
