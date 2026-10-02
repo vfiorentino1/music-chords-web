@@ -1,0 +1,31 @@
+DO
+Una tipa rapaz
+LAm
+(como te gusta a vos)
+REm              SOL
+es tipa vino a consolarte
+DO
+Un poco de amor francés
+   LAm
+no muerde su lengua, no
+   REm                        SOL
+(no es sincera, pero te gusta oírla...)
+DO
+Es una linda ración
+     LAm
+con un defecto (con uno o dos)
+REm                               SOL
+y es un cocktel que no se mezcla solo.
+LAm
+Quiere, si quiere mas
+(ya no la engatuzas)
+FA                 SOL
+Es una copa de lo mejor
+            DO
+cuando se ríe.
+DO
+El lujo es vulgaridad
+LAm
+dijo y me conquisto
+REm                         SOL
+(de esa miel no comen las hormigas)

@@ -1,0 +1,22 @@
+[
+  {"title":"Al vacío","artist":"No Te Va Gustar","file":"songs/al-vacio.md"},
+  {"title":"Avanti morocha","artist":"Los Caballeros de la Quema","file":"songs/avanti-morocha.md"},
+  {"title":"Balada del diablo y la muerte","artist":"La Renga","file":"songs/balada-del-diablo-y-la-muerte.md"},
+  {"title":"Clara","artist":"No Te Va Gustar","file":"songs/clara.md"},
+  {"title":"De música ligera","artist":"Soda Stereo","file":"songs/de-musica-ligera.md"},
+  {"title":"Don't Look Back in Anger","artist":"Oasis","file":"songs/dont-look-back-in-anger.md"},
+  {"title":"Flaca","artist":"Andrés Calamaro","file":"songs/flaca.md"},
+  {"title":"Irresponsables","artist":"Babasónicos","file":"songs/irresponsables.md"},
+  {"title":"Ji ji ji","artist":"Patricio Rey y sus Redonditos de Ricota","file":"songs/jijiji.md"},
+  {"title":"José sabía","artist":"La Vela Puerca","file":"songs/jose-sabia.md"},
+  {"title":"Lamento boliviano","artist":"Enanitos Verdes","file":"songs/lamento-boliviano.md"},
+  {"title":"Loco (tu forma de ser)","artist":"Los Auténticos Decadentes","file":"songs/loco-tu-forma-de-ser.md"},
+  {"title":"Mujer amante","artist":"Rata Blanca","file":"songs/mujer-amante.md"},
+  {"title":"No tan distintos","artist":"Sumo","file":"songs/no-tan-distintos.md"},
+  {"title":"Pasos al costado","artist":"Turf","file":"songs/pasos-al-costado.md"},
+  {"title":"Spaghetti del Rock","artist":"Divididos","file":"songs/spaghetti-del-rock.md"},
+  {"title":"Un ángel para tu soledad","artist":"Patricio Rey y sus Redonditos de Ricota","file":"songs/un-angel-para-tu-soledad.md"},
+  {"title":"Un poco de amor francés","artist":"Patricio Rey y sus Redonditos de Ricota","file":"songs/un-poco-de-amor-frances.md"},
+  {"title":"Una nueva noche fría","artist":"Callejeros","file":"songs/una-nueva-noche-fria.md"},
+  {"title":"Zafar","artist":"La Vela Puerca","file":"songs/zafar.md"}
+]
