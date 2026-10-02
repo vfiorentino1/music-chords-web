@@ -1,5 +1,5 @@
-[Intro: G  D  C  G] x2
- G
+[Intro: G  D  C  G] x2
+G
 Estaba entusiasmado como rey en los caminos
 yo que nunca hasta ahora de mi barrio había salido
 estaba ejercitando una garganta desprolija
@@ -19,12 +19,12 @@ y en un minuto triste la borro como si nada
  G    D    F      C    A#      G
 hay de mi, hay de vos, hay de todos
 G  D  C  G
-  G
+G
 Estaba jugando a extender mi único sueño
 mi sangre despertaba en el crepúsculo del día
 estaba debatiendo entre la gloria y el tropiezo
 si era buen amante tormentoso callejero
-  F
+F
 Estaba despidiendo viejas penas en la vida
-  C
-Estaba descubriendo el
+C
+Estaba
