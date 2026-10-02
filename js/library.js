@@ -10,11 +10,11 @@ function render(items) {
   list.innerHTML = items.map(song => `
     <a class="song-card" href="reader.html?song=${encodeURIComponent(song.id)}">
       <strong>${song.title}</strong>
-      <span>${song.artist} · Tono ${song.key}</span>
+      <span>${song.artist}${song.key ? ` · Tono ${song.key}` : ''}</span>
     </a>`).join('');
 }
 
-fetch('songs/songs.json', { cache: 'no-store' })
+fetch('songs/songs.json?v=20', { cache: 'no-store' })
   .then(r => { if (!r.ok) throw new Error('catalog'); return r.json(); })
   .then(data => { songs = data; render(songs); })
   .catch(() => { list.innerHTML = '<p class="error">No se pudo cargar la biblioteca.</p>'; });
