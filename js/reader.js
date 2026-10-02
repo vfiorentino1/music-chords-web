@@ -25,10 +25,16 @@ async function loadSong() {
 loadSong();
 
 const play = document.getElementById('play');
+const speedDisplay = document.getElementById('speedDisplay');
 let playing = false;
-let speed = 26;
+let speed = 5;
 let fontSize = 16;
 let previous = 0;
+
+function updateSpeedDisplay() {
+  speedDisplay.textContent = speed;
+}
+updateSpeedDisplay();
 
 function frame(now) {
   if (!playing) return;
@@ -51,8 +57,15 @@ play.addEventListener('click', () => {
   previous = 0;
   if (playing) requestAnimationFrame(frame);
 });
-document.getElementById('speedDown').onclick = () => speed = Math.max(6, speed - 5);
-document.getElementById('speedUp').onclick = () => speed = Math.min(100, speed + 5);
+
+document.getElementById('speedDown').onclick = () => {
+  speed = Math.max(1, speed - 1);
+  updateSpeedDisplay();
+};
+document.getElementById('speedUp').onclick = () => {
+  speed = Math.min(30, speed + 1);
+  updateSpeedDisplay();
+};
 document.getElementById('fontDown').onclick = () => { fontSize = Math.max(11, fontSize - 1); songText.style.fontSize = `${fontSize}px`; };
 document.getElementById('fontUp').onclick = () => { fontSize = Math.min(28, fontSize + 1); songText.style.fontSize = `${fontSize}px`; };
 document.getElementById('top').onclick = () => window.scrollTo({ top: 0, behavior: 'smooth' });
