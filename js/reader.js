@@ -27,7 +27,7 @@ loadSong();
 const play = document.getElementById('play');
 const speedDisplay = document.getElementById('speedDisplay');
 let playing = false;
-let speed = 5;
+let speed = 12;
 let fontSize = 16;
 let previous = 0;
 
