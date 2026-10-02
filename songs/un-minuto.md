@@ -25,4 +25,6 @@ mi sangre despertaba en el crepúsculo del día
 estaba debatiendo entre la gloria y el tropiezo
 si era buen amante tormentoso callejero
   F
-Estaba despidiendo viejas
+Estaba despidiendo viejas penas en la vida
+  C
+Estaba descubriendo el
