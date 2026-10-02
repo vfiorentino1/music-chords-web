@@ -1,4 +1,4 @@
-[Intro] D  C  G
+[Intro] D  C  G
         D  C  G
 
 G                 D
@@ -23,7 +23,7 @@ No me persigo por que mucho de lo que esta prohibido me hace feliz
      Am                Bm                     D
 Lo reprimido, cuando esta cautivo, te pide salir
 
- G                D
+G                D
 No pasas, te vestis muy mal
          Am                  Bm                     D
 No comprometas mi trabajo muchacho, correte para atras
@@ -41,4 +41,4 @@ Me escucho y sigo por que mucho de lo que esta prohibido me hace
 G
 Vivir
           D                                     C               G
-No me persigo
+No me
