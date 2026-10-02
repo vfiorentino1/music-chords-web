@@ -1,0 +1,23 @@
+document.getElementById('song').textContent = `           G               D
+I asked my love, to take a walk
+                      G
+Take a walk, just a little ways,
+                            C
+And as we walked, along  we talked
+              G    D            G
+Of when would be,   our wedding day.
+
+          G                   D
+And only say, that you'll be mine,
+                         G
+In no o  thers arms entwined,
+                              C
+Down beside where the waters flow,
+             G    D          G
+Down by the banks of the Ohio.
+
+             G              D
+I asked her if she'd marry me,
+                    G
+And my wife forever be,
+                          C
