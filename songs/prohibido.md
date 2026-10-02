@@ -41,3 +41,4 @@ Me escucho y sigo por que mucho de lo que esta prohibido me hace
 G
 Vivir
           D                                     C               G
+No me persigo
