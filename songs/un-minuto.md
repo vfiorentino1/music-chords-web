@@ -27,4 +27,4 @@ si era buen amante tormentoso callejero
 F
 Estaba despidiendo viejas penas en la vida
 C
-Estaba
+Estaba descubriendo el valor de
