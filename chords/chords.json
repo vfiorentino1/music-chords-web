@@ -1,0 +1,7 @@
+[
+  {"name":"C","label":"Do mayor","root":"C","type":"major","frets":[null,3,2,0,1,0],"fingers":[null,3,2,0,1,0],"barres":[]},
+  {"name":"G","label":"Sol mayor","root":"G","type":"major","frets":[3,2,0,0,0,3],"fingers":[2,1,0,0,0,3],"barres":[]},
+  {"name":"D","label":"Re mayor","root":"D","type":"major","frets":[null,null,0,2,3,2],"fingers":[null,null,0,1,3,2],"barres":[]},
+  {"name":"Am","label":"La menor","root":"A","type":"minor","frets":[null,0,2,2,1,0],"fingers":[null,0,2,3,1,0],"barres":[]},
+  {"name":"F","label":"Fa mayor (cejilla)","root":"F","type":"major","frets":[1,3,3,2,1,1],"fingers":[1,3,4,2,1,1],"barres":[{"fret":1,"from":6,"to":1,"finger":1}]}
+]
