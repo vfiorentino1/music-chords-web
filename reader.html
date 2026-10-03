@@ -5,7 +5,7 @@
   <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
   <meta name="theme-color" content="#111111">
   <title>Lector | Mi Cancionero</title>
-  <link rel="stylesheet" href="css/style.css?v=6">
+  <link rel="stylesheet" href="css/style.css?v=7">
 </head>
 <body class="reader-page">
   <header class="reader-header">
@@ -15,9 +15,10 @@
     <div class="song-nav"><a id="prevSong" href="#">← Anterior</a><a id="nextSong" href="#">Siguiente →</a></div>
   </header>
   <main class="song-wrap"><pre id="songText">Cargando canción...</pre></main>
+  <div id="chordOverlay" class="chord-overlay" hidden><div id="chordPopup" class="chord-popup" role="dialog" aria-modal="true" aria-label="Diagrama de acorde"><button id="closeChord" class="chord-close" aria-label="Cerrar">×</button><div id="chordPopupContent"></div></div></div>
   <nav class="controls">
     <button id="play">▶ Scroll</button><button id="speedDown">−</button><button id="speedDisplay" disabled>12</button><button id="speedUp">+</button><button id="fontDown">A−</button><button id="fontUp">A+</button><button id="top">↑</button>
   </nav>
-  <script src="js/reader.js?v=6"></script>
+  <script src="js/reader.js?v=7"></script>
 </body>
 </html>
