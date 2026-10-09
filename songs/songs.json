@@ -250,5 +250,17 @@
     "title": "Snow (Hey Oh)",
     "artist": "Red Hot Chili Peppers",
     "file": "rhcp-snow-hey-oh.md"
+  },
+  {
+    "id": "simon-garfunkel-sound-of-silence-am",
+    "title": "The Sound of Silence (Am)",
+    "artist": "Simon & Garfunkel",
+    "file": "simon-garfunkel-sound-of-silence-am.md"
+  },
+  {
+    "id": "simon-garfunkel-sound-of-silence-em",
+    "title": "The Sound of Silence (Em)",
+    "artist": "Simon & Garfunkel",
+    "file": "simon-garfunkel-sound-of-silence-em.md"
   }
 ]
