@@ -226,5 +226,29 @@
     "title": "Va a Escampar",
     "artist": "La Vela Puerca",
     "file": "la-vela-va-a-escampar.md"
+  },
+  {
+    "id": "rhcp-californication",
+    "title": "Californication",
+    "artist": "Red Hot Chili Peppers",
+    "file": "rhcp-californication.md"
+  },
+  {
+    "id": "rhcp-under-the-bridge",
+    "title": "Under the Bridge",
+    "artist": "Red Hot Chili Peppers",
+    "file": "rhcp-under-the-bridge.md"
+  },
+  {
+    "id": "rhcp-otherside",
+    "title": "Otherside",
+    "artist": "Red Hot Chili Peppers",
+    "file": "rhcp-otherside.md"
+  },
+  {
+    "id": "rhcp-snow-hey-oh",
+    "title": "Snow (Hey Oh)",
+    "artist": "Red Hot Chili Peppers",
+    "file": "rhcp-snow-hey-oh.md"
   }
 ]
