@@ -1,3 +1,206 @@
 [
-{"id":"al-vacio","title":"Al vacío","artist":"No Te Va Gustar","file":"al-vacio.md"},{"id":"avanti-morocha","title":"Avanti morocha","artist":"Los Caballeros de la Quema","file":"avanti-morocha.md"},{"id":"balada-del-diablo-y-la-muerte","title":"Balada del diablo y la muerte","artist":"La Renga","file":"balada-del-diablo-y-la-muerte.md"},{"id":"clara","title":"Clara","artist":"No Te Va Gustar","file":"clara.md"},{"id":"de-musica-ligera","title":"De música ligera","artist":"Soda Stereo","file":"de-musica-ligera.md"},{"id":"dont-look-back-in-anger","title":"Don't Look Back in Anger","artist":"Oasis","file":"dont-look-back-in-anger.md"},{"id":"flaca","title":"Flaca","artist":"Andrés Calamaro","file":"flaca.md"},{"id":"irresponsables","title":"Irresponsables","artist":"Babasónicos","file":"irresponsables.md"},{"id":"jijiji","title":"Ji ji ji","artist":"Patricio Rey y sus Redonditos de Ricota","file":"jijiji.md"},{"id":"jose-sabia","title":"José sabía","artist":"La Vela Puerca","file":"jose-sabia.md"},{"id":"lamento-boliviano","title":"Lamento boliviano","artist":"Enanitos Verdes","file":"lamento-boliviano.md"},{"id":"loco-tu-forma-de-ser","title":"Loco (tu forma de ser)","artist":"Los Auténticos Decadentes","file":"loco-tu-forma-de-ser.md"},{"id":"mujer-amante","title":"Mujer amante","artist":"Rata Blanca","file":"mujer-amante.md"},{"id":"no-tan-distintos","title":"No tan distintos","artist":"Sumo","file":"no-tan-distintos.md"},{"id":"pasos-al-costado","title":"Pasos al costado","artist":"Turf","file":"pasos-al-costado.md"},{"id":"prohibido","title":"Prohibido","artist":"Callejeros","file":"prohibido.md"},{"id":"rocanroles-sin-destino","title":"Rocanroles sin destino","artist":"Callejeros","file":"rocanroles-sin-destino.md"},{"id":"spaghetti-del-rock","title":"Spaghetti del Rock","artist":"Divididos","file":"spaghetti-del-rock.md"},{"id":"tan-perfecto","title":"Tan perfecto","artist":"Callejeros","file":"tan-perfecto.md"},{"id":"the-whistler","title":"The Whistler","artist":"The White Buffalo","file":"white-buffalo-the-whistler.md"},{"id":"un-angel-para-tu-soledad","title":"Un ángel para tu soledad","artist":"Patricio Rey y sus Redonditos de Ricota","file":"un-angel-para-tu-soledad.md"},{"id":"un-minuto","title":"Un minuto","artist":"Callejeros","file":"un-minuto.md"},{"id":"un-poco-de-amor-frances","title":"Un poco de amor francés","artist":"Patricio Rey y sus Redonditos de Ricota","file":"un-poco-de-amor-frances.md"},{"id":"una-nueva-noche-fria","title":"Una nueva noche fría","artist":"Callejeros","file":"una-nueva-noche-fria.md"},{"id":"zafar","title":"Zafar","artist":"La Vela Puerca","file":"zafar.md"},{"id":"esa-estrella-era-mi-lujo","title":"Esa estrella era mi lujo","artist":"Patricio Rey y sus Redonditos de Ricota","file":"esa-estrella-era-mi-lujo.md"},{"id":"nanfi-frulli","title":"Ñam fri fruli","artist":"Patricio Rey y sus Redonditos de Ricota","file":"nanfi-frulli.md"},{"id":"angel-de-los-perdedores","title":"Ángel de los perdedores","artist":"Patricio Rey y sus Redonditos de Ricota","file":"redondos-angel-de-los-perdedores.md"},{"id":"aquella-solitaria","title":"Aquella solitaria vaca cubana","artist":"Patricio Rey y sus Redonditos de Ricota","file":"redondos-aquella-solitaria.md"},{"id":"cana-seca","title":"Caña seca y un membrillo","artist":"Patricio Rey y sus Redonditos de Ricota","file":"redondos-cana-seca.md"},{"id":"superlogico","title":"Superlógico","artist":"Patricio Rey y sus Redonditos de Ricota","file":"superlogico.md"}
+  {
+    "id": "al-vacio",
+    "title": "Al vacío",
+    "artist": "No Te Va Gustar",
+    "file": "al-vacio.md"
+  },
+  {
+    "id": "avanti-morocha",
+    "title": "Avanti morocha",
+    "artist": "Los Caballeros de la Quema",
+    "file": "avanti-morocha.md"
+  },
+  {
+    "id": "balada-del-diablo-y-la-muerte",
+    "title": "Balada del diablo y la muerte",
+    "artist": "La Renga",
+    "file": "balada-del-diablo-y-la-muerte.md"
+  },
+  {
+    "id": "clara",
+    "title": "Clara",
+    "artist": "No Te Va Gustar",
+    "file": "clara.md"
+  },
+  {
+    "id": "de-musica-ligera",
+    "title": "De música ligera",
+    "artist": "Soda Stereo",
+    "file": "de-musica-ligera.md"
+  },
+  {
+    "id": "dont-look-back-in-anger",
+    "title": "Don't Look Back in Anger",
+    "artist": "Oasis",
+    "file": "dont-look-back-in-anger.md"
+  },
+  {
+    "id": "flaca",
+    "title": "Flaca",
+    "artist": "Andrés Calamaro",
+    "file": "flaca.md"
+  },
+  {
+    "id": "irresponsables",
+    "title": "Irresponsables",
+    "artist": "Babasónicos",
+    "file": "irresponsables.md"
+  },
+  {
+    "id": "jijiji",
+    "title": "Ji ji ji",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "file": "jijiji.md"
+  },
+  {
+    "id": "jose-sabia",
+    "title": "José sabía",
+    "artist": "La Vela Puerca",
+    "file": "jose-sabia.md"
+  },
+  {
+    "id": "lamento-boliviano",
+    "title": "Lamento boliviano",
+    "artist": "Enanitos Verdes",
+    "file": "lamento-boliviano.md"
+  },
+  {
+    "id": "loco-tu-forma-de-ser",
+    "title": "Loco (tu forma de ser)",
+    "artist": "Los Auténticos Decadentes",
+    "file": "loco-tu-forma-de-ser.md"
+  },
+  {
+    "id": "mujer-amante",
+    "title": "Mujer amante",
+    "artist": "Rata Blanca",
+    "file": "mujer-amante.md"
+  },
+  {
+    "id": "no-tan-distintos",
+    "title": "No tan distintos",
+    "artist": "Sumo",
+    "file": "no-tan-distintos.md"
+  },
+  {
+    "id": "pasos-al-costado",
+    "title": "Pasos al costado",
+    "artist": "Turf",
+    "file": "pasos-al-costado.md"
+  },
+  {
+    "id": "prohibido",
+    "title": "Prohibido",
+    "artist": "Callejeros",
+    "file": "prohibido.md"
+  },
+  {
+    "id": "rocanroles-sin-destino",
+    "title": "Rocanroles sin destino",
+    "artist": "Callejeros",
+    "file": "rocanroles-sin-destino.md"
+  },
+  {
+    "id": "spaghetti-del-rock",
+    "title": "Spaghetti del Rock",
+    "artist": "Divididos",
+    "file": "spaghetti-del-rock.md"
+  },
+  {
+    "id": "tan-perfecto",
+    "title": "Tan perfecto",
+    "artist": "Callejeros",
+    "file": "tan-perfecto.md"
+  },
+  {
+    "id": "the-whistler",
+    "title": "The Whistler",
+    "artist": "The White Buffalo",
+    "file": "white-buffalo-the-whistler.md"
+  },
+  {
+    "id": "un-angel-para-tu-soledad",
+    "title": "Un ángel para tu soledad",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "file": "un-angel-para-tu-soledad.md"
+  },
+  {
+    "id": "un-minuto",
+    "title": "Un minuto",
+    "artist": "Callejeros",
+    "file": "un-minuto.md"
+  },
+  {
+    "id": "un-poco-de-amor-frances",
+    "title": "Un poco de amor francés",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "file": "un-poco-de-amor-frances.md"
+  },
+  {
+    "id": "una-nueva-noche-fria",
+    "title": "Una nueva noche fría",
+    "artist": "Callejeros",
+    "file": "una-nueva-noche-fria.md"
+  },
+  {
+    "id": "zafar",
+    "title": "Zafar",
+    "artist": "La Vela Puerca",
+    "file": "zafar.md"
+  },
+  {
+    "id": "esa-estrella-era-mi-lujo",
+    "title": "Esa estrella era mi lujo",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "file": "esa-estrella-era-mi-lujo.md"
+  },
+  {
+    "id": "nanfi-frulli",
+    "title": "Ñam fri fruli",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "file": "nanfi-frulli.md"
+  },
+  {
+    "id": "angel-de-los-perdedores",
+    "title": "Ángel de los perdedores",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "file": "redondos-angel-de-los-perdedores.md"
+  },
+  {
+    "id": "aquella-solitaria",
+    "title": "Aquella solitaria vaca cubana",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "file": "redondos-aquella-solitaria.md"
+  },
+  {
+    "id": "cana-seca",
+    "title": "Caña seca y un membrillo",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "file": "redondos-cana-seca.md"
+  },
+  {
+    "id": "superlogico",
+    "title": "Superlógico",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "file": "superlogico.md"
+  },
+  {
+    "id": "offspring-self-esteem",
+    "title": "Self Esteem",
+    "artist": "The Offspring",
+    "file": "offspring-self-esteem.md"
+  },
+  {
+    "id": "offspring-gone-away",
+    "title": "Gone Away",
+    "artist": "The Offspring",
+    "file": "offspring-gone-away.md"
+  },
+  {
+    "id": "offspring-why-dont-you-get-a-job",
+    "title": "Why Don't You Get a Job?",
+    "artist": "The Offspring",
+    "file": "offspring-why-dont-you-get-a-job.md"
+  }
 ]
