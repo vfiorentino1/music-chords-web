@@ -214,5 +214,17 @@
     "title": "Stand by Me",
     "artist": "Oasis",
     "file": "oasis-stand-by-me.md"
+  },
+  {
+    "id": "la-vela-el-viejo",
+    "title": "El Viejo",
+    "artist": "La Vela Puerca",
+    "file": "la-vela-el-viejo.md"
+  },
+  {
+    "id": "la-vela-va-a-escampar",
+    "title": "Va a Escampar",
+    "artist": "La Vela Puerca",
+    "file": "la-vela-va-a-escampar.md"
   }
 ]
