@@ -202,5 +202,17 @@
     "title": "Why Don't You Get a Job?",
     "artist": "The Offspring",
     "file": "offspring-why-dont-you-get-a-job.md"
+  },
+  {
+    "id": "oasis-wonderwall",
+    "title": "Wonderwall",
+    "artist": "Oasis",
+    "file": "oasis-wonderwall.md"
+  },
+  {
+    "id": "oasis-stand-by-me",
+    "title": "Stand by Me",
+    "artist": "Oasis",
+    "file": "oasis-stand-by-me.md"
   }
 ]
