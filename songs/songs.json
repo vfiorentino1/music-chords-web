@@ -382,5 +382,23 @@
     "title": "Se viene",
     "artist": "Bersuit Vergarabat",
     "file": "es/bersuit/se-viene.md"
+  },
+  {
+    "id": "en-guns-n-roses-guns-dont-cry",
+    "title": "Guns dont cry",
+    "artist": "Guns n roses",
+    "file": "en/guns-n-roses/guns-dont-cry.md"
+  },
+  {
+    "id": "en-guns-n-roses-guns-sweet-child",
+    "title": "Guns sweet child",
+    "artist": "Guns n roses",
+    "file": "en/guns-n-roses/guns-sweet-child.md"
+  },
+  {
+    "id": "es-calamaro-calamaro-estadio-azteca",
+    "title": "Estadio azteca",
+    "artist": "Andrés Calamaro",
+    "file": "es/calamaro/calamaro-estadio-azteca.md"
   }
 ]
