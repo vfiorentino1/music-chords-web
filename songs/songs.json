@@ -274,5 +274,113 @@
     "title": "Don't Cry",
     "artist": "Guns N' Roses",
     "file": "guns-dont-cry.md"
+  },
+  {
+    "id": "bersuit-bersuit-al-olor-del-hogar",
+    "title": "Al olor del hogar",
+    "artist": "Bersuit Vergarabat",
+    "file": "es/bersuit/bersuit-al-olor-del-hogar.md"
+  },
+  {
+    "id": "bersuit-bersuit-cuatro-vientos",
+    "title": "Cuatro vientos",
+    "artist": "Bersuit Vergarabat",
+    "file": "es/bersuit/bersuit-cuatro-vientos.md"
+  },
+  {
+    "id": "bersuit-bersuit-el-tiempo-no-para",
+    "title": "El tiempo no para",
+    "artist": "Bersuit Vergarabat",
+    "file": "es/bersuit/bersuit-el-tiempo-no-para.md"
+  },
+  {
+    "id": "bersuit-bersuit-el-viejo-de-arriba",
+    "title": "El viejo de arriba",
+    "artist": "Bersuit Vergarabat",
+    "file": "es/bersuit/bersuit-el-viejo-de-arriba.md"
+  },
+  {
+    "id": "bersuit-bersuit-espiritu-de-esta-selva",
+    "title": "Espíritu de esta selva",
+    "artist": "Bersuit Vergarabat",
+    "file": "es/bersuit/bersuit-espiritu-de-esta-selva.md"
+  },
+  {
+    "id": "bersuit-bersuit-la-bolsa",
+    "title": "La bolsa",
+    "artist": "Bersuit Vergarabat",
+    "file": "es/bersuit/bersuit-la-bolsa.md"
+  },
+  {
+    "id": "bersuit-bersuit-la-soledad",
+    "title": "La soledad",
+    "artist": "Bersuit Vergarabat",
+    "file": "es/bersuit/bersuit-la-soledad.md"
+  },
+  {
+    "id": "bersuit-bersuit-mi-caramelo",
+    "title": "Mi caramelo",
+    "artist": "Bersuit Vergarabat",
+    "file": "es/bersuit/bersuit-mi-caramelo.md"
+  },
+  {
+    "id": "bersuit-bersuit-murguita-del-sur",
+    "title": "Murguita del sur",
+    "artist": "Bersuit Vergarabat",
+    "file": "es/bersuit/bersuit-murguita-del-sur.md"
+  },
+  {
+    "id": "bersuit-bersuit-negra-murguera",
+    "title": "Negra murguera",
+    "artist": "Bersuit Vergarabat",
+    "file": "es/bersuit/bersuit-negra-murguera.md"
+  },
+  {
+    "id": "bersuit-bersuit-un-pacto-v2",
+    "title": "Un pacto (versión 2)",
+    "artist": "Bersuit Vergarabat",
+    "file": "es/bersuit/bersuit-un-pacto-v2.md"
+  },
+  {
+    "id": "bersuit-bersuit-un-pacto",
+    "title": "Un pacto",
+    "artist": "Bersuit Vergarabat",
+    "file": "es/bersuit/bersuit-un-pacto.md"
+  },
+  {
+    "id": "bersuit-bersuit-vuelos",
+    "title": "Vuelos",
+    "artist": "Bersuit Vergarabat",
+    "file": "es/bersuit/bersuit-vuelos.md"
+  },
+  {
+    "id": "bersuit-el-tiempo-compl",
+    "title": "El tiempo no para (completa)",
+    "artist": "Bersuit Vergarabat",
+    "file": "es/bersuit/el-tiempo-compl.md"
+  },
+  {
+    "id": "bersuit-la-bomba-loca",
+    "title": "La bomba loca",
+    "artist": "Bersuit Vergarabat",
+    "file": "es/bersuit/la-bomba-loca.md"
+  },
+  {
+    "id": "bersuit-madre-hay-una-sola",
+    "title": "Madre hay una sola",
+    "artist": "Bersuit Vergarabat",
+    "file": "es/bersuit/madre-hay-una-sola.md"
+  },
+  {
+    "id": "bersuit-madre",
+    "title": "Madre (otra versión)",
+    "artist": "Bersuit Vergarabat",
+    "file": "es/bersuit/madre.md"
+  },
+  {
+    "id": "bersuit-se-viene",
+    "title": "Se viene",
+    "artist": "Bersuit Vergarabat",
+    "file": "es/bersuit/se-viene.md"
   }
 ]
