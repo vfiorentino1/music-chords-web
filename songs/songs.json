@@ -262,5 +262,17 @@
     "title": "The Sound of Silence (Em)",
     "artist": "Simon & Garfunkel",
     "file": "simon-garfunkel-sound-of-silence-em.md"
+  },
+  {
+    "id": "guns-sweet-child",
+    "title": "Sweet Child O' Mine",
+    "artist": "Guns N' Roses",
+    "file": "guns-sweet-child.md"
+  },
+  {
+    "id": "guns-dont-cry",
+    "title": "Don't Cry",
+    "artist": "Guns N' Roses",
+    "file": "guns-dont-cry.md"
   }
 ]
