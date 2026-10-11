@@ -424,5 +424,53 @@
     "title": "Guns roses knocking on heavens door",
     "artist": "Guns n roses",
     "file": "en/guns-n-roses/guns-roses-knocking-on-heavens-door.md"
+  },
+  {
+    "id": "es-buitres-azul-buitres",
+    "title": "Azul buitres",
+    "artist": "Buitres",
+    "file": "es/buitres/azul-buitres.md"
+  },
+  {
+    "id": "es-buitres-buitres-cadillac",
+    "title": "Cadillac",
+    "artist": "Buitres",
+    "file": "es/buitres/buitres-cadillac.md"
+  },
+  {
+    "id": "es-buitres-buitres-carretera",
+    "title": "Carretera",
+    "artist": "Buitres",
+    "file": "es/buitres/buitres-carretera.md"
+  },
+  {
+    "id": "es-buitres-buitres-condenado-el-corazon",
+    "title": "Condenado el corazon",
+    "artist": "Buitres",
+    "file": "es/buitres/buitres-condenado-el-corazon.md"
+  },
+  {
+    "id": "es-buitres-buitres-ojos-rojos",
+    "title": "Ojos rojos",
+    "artist": "Buitres",
+    "file": "es/buitres/buitres-ojos-rojos.md"
+  },
+  {
+    "id": "es-buitres-buitres-siglo-xx-cambalache",
+    "title": "Siglo xx cambalache",
+    "artist": "Buitres",
+    "file": "es/buitres/buitres-siglo-xx-cambalache.md"
+  },
+  {
+    "id": "es-buitres-calaveratour",
+    "title": "Calaveratour",
+    "artist": "Buitres",
+    "file": "es/buitres/calaveratour.md"
+  },
+  {
+    "id": "es-buitres-estomagos-seguridad",
+    "title": "Estomagos seguridad",
+    "artist": "Buitres",
+    "file": "es/buitres/estomagos-seguridad.md"
   }
 ]
