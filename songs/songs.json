@@ -502,5 +502,11 @@
     "title": "Hoy estoy raro",
     "artist": "El Cuarteto de Nos",
     "file": "es/cuarteto/hoy-estoy-raro.md"
+  },
+  {
+    "id": "es-cuarteto-invierno-del-92",
+    "title": "Invierno del 92",
+    "artist": "El Cuarteto de Nos",
+    "file": "es/cuarteto/invierno-del-92.md"
   }
 ]
