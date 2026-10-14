@@ -484,5 +484,11 @@
     "title": "No llora",
     "artist": "Cuarteto",
     "file": "es/cuarteto/no-llora.md"
+  },
+  {
+    "id": "es-cuarteto-bo-cartero",
+    "title": "Bo cartero",
+    "artist": "El Cuarteto de Nos",
+    "file": "es/cuarteto/bo-cartero.md"
   }
 ]
