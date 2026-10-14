@@ -478,5 +478,11 @@
     "title": "Cielo de un solo color",
     "artist": "No Te Va Gustar",
     "file": "es/no-te-va-a-gustar/cielo-de-un-solo-color.md"
+  },
+  {
+    "id": "es-cuarteto-no-llora",
+    "title": "No llora",
+    "artist": "Cuarteto",
+    "file": "es/cuarteto/no-llora.md"
   }
 ]
