@@ -526,5 +526,12 @@
     "title": "Quién me enseñó",
     "artist": "José Larralde",
     "file": "es/jose-larralde/jose-larralde-quien-me-enseno.md"
+  },
+  {
+    "id": "es-jose-larralde-permiso",
+    "title": "Permiso",
+    "artist": "José Larralde",
+    "key": "D",
+    "file": "es/jose-larralde/permiso.md"
   }
 ]
