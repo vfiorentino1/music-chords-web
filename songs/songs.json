@@ -533,5 +533,12 @@
     "artist": "José Larralde",
     "key": "D",
     "file": "es/jose-larralde/permiso.md"
+  },
+  {
+    "id": "en-audioslave-audioslave-billie-jean",
+    "title": "Billie Jean",
+    "artist": "Chris Cornell (Audioslave)",
+    "key": "Em",
+    "file": "en/audioslave/audioslave-billie-jean.md"
   }
 ]
