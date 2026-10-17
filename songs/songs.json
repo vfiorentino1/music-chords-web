@@ -782,5 +782,68 @@
     "title": "Tan perfecto",
     "artist": "Callejeros",
     "file": "es/callejeros/tan-perfecto.md"
+  },
+  {
+    "id": "es-es-decadantes-el-gran-senor",
+    "title": "El Gran Senor",
+    "artist": "Los Auténticos Decadentes",
+    "key": "",
+    "file": "es/decadantes/el-gran-senor.md"
+  },
+  {
+    "id": "es-es-decadantes-la-guitarra",
+    "title": "La Guitarra",
+    "artist": "Los Auténticos Decadentes",
+    "key": "",
+    "file": "es/decadantes/la-guitarra.md"
+  },
+  {
+    "id": "es-es-decadantes-los-autenticos-decadentes-loco",
+    "title": "Los Autenticos Decadentes Loco",
+    "artist": "Los Auténticos Decadentes",
+    "key": "",
+    "file": "es/decadantes/los-autenticos-decadentes-loco.md"
+  },
+  {
+    "id": "es-es-divididos-divididos-que-ves",
+    "title": "Que Ves",
+    "artist": "Divididos",
+    "key": "",
+    "file": "es/divididos/divididos-que-ves.md"
+  },
+  {
+    "id": "es-es-divididos-divididos-spaguetti",
+    "title": "Spaguetti",
+    "artist": "Divididos",
+    "key": "",
+    "file": "es/divididos/divididos-spaguetti.md"
+  },
+  {
+    "id": "es-es-la-renga-la-renga-diablo-y-la-muerte",
+    "title": "Diablo Y La Muerte",
+    "artist": "La Renga",
+    "key": "",
+    "file": "es/la-renga/la-renga-diablo-y-la-muerte.md"
+  },
+  {
+    "id": "es-es-la-renga-la-renga-la-balada-del-diablo-y-la-muerte",
+    "title": "La Balada Del Diablo Y La Muerte",
+    "artist": "La Renga",
+    "key": "",
+    "file": "es/la-renga/la-renga-la-balada-del-diablo-y-la-muerte.md"
+  },
+  {
+    "id": "es-es-la-renga-la-renga-lo-fragil-d-ela-loc",
+    "title": "Lo Fragil D Ela Loc",
+    "artist": "La Renga",
+    "key": "",
+    "file": "es/la-renga/la-renga-lo-fragil-d-ela-loc.md"
+  },
+  {
+    "id": "es-es-la-renga-la-renga-panic-show",
+    "title": "Panic Show",
+    "artist": "La Renga",
+    "key": "",
+    "file": "es/la-renga/la-renga-panic-show.md"
   }
 ]
