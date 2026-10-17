@@ -1694,5 +1694,19 @@
     "artist": "Vilma Palma e Vampiros",
     "key": "",
     "file": "es/vilma-palma/vilma-palma-l-a-pachanga.md"
+  },
+  {
+    "id": "es-molotov-amateur",
+    "title": "Amateur",
+    "artist": "Molotov",
+    "key": "",
+    "file": "es/molotov/amateur.md"
+  },
+  {
+    "id": "es-ratones-paranoicos-quiero-verla-en-el-show",
+    "title": "Quiero verla en el show",
+    "artist": "Ratones Paranoicos",
+    "key": "",
+    "file": "es/ratones-paranoicos/quiero-verla-en-el-show.md"
   }
 ]
