@@ -1138,5 +1138,68 @@
     "artist": "Soda Stereo",
     "key": "",
     "file": "es/soda-cerati/soda-profugos.md"
+  },
+  {
+    "id": "es-es-no-te-va-a-gustar-no-era-cierto",
+    "title": "No era cierto",
+    "artist": "No Te Va Gustar",
+    "key": "",
+    "file": "es/no-te-va-a-gustar/no-era-cierto.md"
+  },
+  {
+    "id": "es-es-no-te-va-a-gustar-verter-reir",
+    "title": "Verte reír",
+    "artist": "No Te Va Gustar",
+    "key": "",
+    "file": "es/no-te-va-a-gustar/verter-reir.md"
+  },
+  {
+    "id": "es-es-olimarenos-y-folklore-a-don-jose",
+    "title": "A don José",
+    "artist": "Los Olimareños",
+    "key": "",
+    "file": "es/olimarenos-y-folklore/a-don-jose.md"
+  },
+  {
+    "id": "es-es-olimarenos-y-folklore-el-gavilan-colorado",
+    "title": "El gavilán colorado",
+    "artist": "Los Olimareños",
+    "key": "",
+    "file": "es/olimarenos-y-folklore/el-gavilan-colorado.md"
+  },
+  {
+    "id": "es-es-olimarenos-y-folklore-olimarenos-angelitos",
+    "title": "Angelitos",
+    "artist": "Los Olimareños",
+    "key": "",
+    "file": "es/olimarenos-y-folklore/olimarenos-angelitos.md"
+  },
+  {
+    "id": "es-es-olimarenos-y-folklore-olimarenos-junto-al-jaguey",
+    "title": "Junto al jagüey",
+    "artist": "Los Olimareños",
+    "key": "",
+    "file": "es/olimarenos-y-folklore/olimarenos-junto-al-jaguey.md"
+  },
+  {
+    "id": "es-es-olimarenos-y-folklore-olimarenos-nuestro-camino",
+    "title": "Nuestro camino",
+    "artist": "Los Olimareños",
+    "key": "",
+    "file": "es/olimarenos-y-folklore/olimarenos-nuestro-camino.md"
+  },
+  {
+    "id": "es-es-olimarenos-y-folklore-olimarenos-pobre-joaquin",
+    "title": "Pobre Joaquín",
+    "artist": "Los Olimareños",
+    "key": "",
+    "file": "es/olimarenos-y-folklore/olimarenos-pobre-joaquin.md"
+  },
+  {
+    "id": "es-es-olimarenos-y-folklore-olimarenos-ta-llorando",
+    "title": "Tá llorando",
+    "artist": "Los Olimareños",
+    "key": "",
+    "file": "es/olimarenos-y-folklore/olimarenos-ta-llorando.md"
   }
 ]
