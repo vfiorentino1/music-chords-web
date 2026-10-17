@@ -1033,5 +1033,68 @@
     "artist": "Patricio Rey y sus Redonditos de Ricota",
     "key": "",
     "file": "es/redondos/redondos-queso-ruso-v2.md"
+  },
+  {
+    "id": "es-es-sumo-sumo-breaking-away",
+    "title": "Breaking away",
+    "artist": "Sumo",
+    "key": "",
+    "file": "es/sumo/sumo-breaking-away.md"
+  },
+  {
+    "id": "es-es-sumo-sumo-crua-chan",
+    "title": "Crua chan",
+    "artist": "Sumo",
+    "key": "",
+    "file": "es/sumo/sumo-crua-chan.md"
+  },
+  {
+    "id": "es-es-sumo-sumo-el-ojo-blindado",
+    "title": "El ojo blindado",
+    "artist": "Sumo",
+    "key": "",
+    "file": "es/sumo/sumo-el-ojo-blindado.md"
+  },
+  {
+    "id": "es-es-sumo-sumo-heroin",
+    "title": "Heroin",
+    "artist": "Sumo",
+    "key": "",
+    "file": "es/sumo/sumo-heroin.md"
+  },
+  {
+    "id": "es-es-sumo-sumo-manana-en-el-abasto",
+    "title": "Mañana en el Abasto",
+    "artist": "Sumo",
+    "key": "",
+    "file": "es/sumo/sumo-manana-en-el-abasto.md"
+  },
+  {
+    "id": "es-es-sumo-sumo-reggae-paz-y-amor",
+    "title": "Reggae paz y amor",
+    "artist": "Sumo",
+    "key": "",
+    "file": "es/sumo/sumo-reggae-paz-y-amor.md"
+  },
+  {
+    "id": "es-es-sumo-sumo-regtest",
+    "title": "Regtest",
+    "artist": "Sumo",
+    "key": "",
+    "file": "es/sumo/sumo-regtest.md"
+  },
+  {
+    "id": "es-es-sumo-sumo-white-trash",
+    "title": "White trash",
+    "artist": "Sumo",
+    "key": "",
+    "file": "es/sumo/sumo-white-trash.md"
+  },
+  {
+    "id": "es-es-sumo-sumo-white-trash-v2",
+    "title": "White trash (versión 2)",
+    "artist": "Sumo",
+    "key": "",
+    "file": "es/sumo/sumo-white-trash-v2.md"
   }
 ]
