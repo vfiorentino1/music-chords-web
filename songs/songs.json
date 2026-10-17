@@ -956,5 +956,61 @@
     "title": "Zafar",
     "artist": "La vela",
     "file": "es/la-vela/la-vela-zafar.md"
+  },
+  {
+    "id": "es-es-redondos-redondos-me-matan-limon",
+    "title": "Me matan limón",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "key": "",
+    "file": "es/redondos/redondos-me-matan-limon.md"
+  },
+  {
+    "id": "es-es-redondos-redondos-mientras-tanto",
+    "title": "Mientras tanto",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "key": "",
+    "file": "es/redondos/redondos-mientras-tanto.md"
+  },
+  {
+    "id": "es-es-redondos-redondos-motor-psico",
+    "title": "Motor psico",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "key": "",
+    "file": "es/redondos/redondos-motor-psico.md"
+  },
+  {
+    "id": "es-es-redondos-redondos-pabellon-septimo",
+    "title": "Pabellón séptimo",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "key": "",
+    "file": "es/redondos/redondos-pabellon-septimo.md"
+  },
+  {
+    "id": "es-es-redondos-redondos-queso-ruso",
+    "title": "Queso ruso",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "key": "",
+    "file": "es/redondos/redondos-queso-ruso.md"
+  },
+  {
+    "id": "es-es-redondos-redondos-ropa-sucia",
+    "title": "Ropa sucia",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "key": "",
+    "file": "es/redondos/redondos-ropa-sucia.md"
+  },
+  {
+    "id": "es-es-redondos-redondos-salando-las-heridas",
+    "title": "Salando las heridas",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "key": "",
+    "file": "es/redondos/redondos-salando-las-heridas.md"
+  },
+  {
+    "id": "es-es-redondos-redondos-tarea-fina",
+    "title": "Tarea fina",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "key": "",
+    "file": "es/redondos/redondos-tarea-fina.md"
   }
 ]
