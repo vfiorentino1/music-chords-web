@@ -880,5 +880,29 @@
     "artist": "La Vela Puerca",
     "key": "",
     "file": "es/la-vela/la-vela-mi-semilla.md"
+  },
+  {
+    "id": "es-la-vela-la-vela-el-viejo",
+    "title": "El viejo",
+    "artist": "La vela",
+    "file": "es/la-vela/la-vela-el-viejo.md"
+  },
+  {
+    "id": "es-la-vela-la-vela-jose-sabia",
+    "title": "Jose sabia",
+    "artist": "La vela",
+    "file": "es/la-vela/la-vela-jose-sabia.md"
+  },
+  {
+    "id": "es-la-vela-la-vela-va-a-escampar",
+    "title": "Va a escampar",
+    "artist": "La vela",
+    "file": "es/la-vela/la-vela-va-a-escampar.md"
+  },
+  {
+    "id": "es-la-vela-la-vela-zafar",
+    "title": "Zafar",
+    "artist": "La vela",
+    "file": "es/la-vela/la-vela-zafar.md"
   }
 ]
