@@ -1012,5 +1012,26 @@
     "artist": "Patricio Rey y sus Redonditos de Ricota",
     "key": "",
     "file": "es/redondos/redondos-tarea-fina.md"
+  },
+  {
+    "id": "es-es-redondos-redondos-toxi-taxi",
+    "title": "Toxi taxi",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "key": "",
+    "file": "es/redondos/redondos-toxi-taxi.md"
+  },
+  {
+    "id": "es-es-redondos-redondos-vencedores-vencidos",
+    "title": "Vencedores vencidos",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "key": "",
+    "file": "es/redondos/redondos-vencedores-vencidos.md"
+  },
+  {
+    "id": "es-es-redondos-redondos-queso-ruso-v2",
+    "title": "Queso ruso (versión 2)",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "key": "",
+    "file": "es/redondos/redondos-queso-ruso-v2.md"
   }
 ]
