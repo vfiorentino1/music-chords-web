@@ -726,5 +726,19 @@
     "title": "Mi enfermedad",
     "artist": "Andrés Calamaro",
     "file": "es/calamaro/mi-enfermedad.md"
+  },
+  {
+    "id": "es-es-callejeros-callejeros-prohibido-v2",
+    "title": "Prohibido V2",
+    "artist": "Callejeros",
+    "key": "",
+    "file": "es/callejeros/callejeros-prohibido-v2.md"
+  },
+  {
+    "id": "es-es-callejeros-callejeros-un-minuto-v2",
+    "title": "Un Minuto V2",
+    "artist": "Callejeros",
+    "key": "",
+    "file": "es/callejeros/callejeros-un-minuto-v2.md"
   }
 ]
