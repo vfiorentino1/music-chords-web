@@ -540,5 +540,40 @@
     "artist": "Chris Cornell (Audioslave)",
     "key": "Em",
     "file": "en/audioslave/audioslave-billie-jean.md"
+  },
+  {
+    "id": "es-es-las-pelotas-sera",
+    "title": "Será",
+    "artist": "Las Pelotas",
+    "key": "",
+    "file": "es/las-pelotas/sera.md"
+  },
+  {
+    "id": "es-es-las-pelotas-si-supieras",
+    "title": "Si supieras",
+    "artist": "Las Pelotas",
+    "key": "",
+    "file": "es/las-pelotas/si-supieras.md"
+  },
+  {
+    "id": "es-es-babasonicos-carismatico",
+    "title": "Carismático",
+    "artist": "Babasónicos",
+    "key": "",
+    "file": "es/babasonicos/carismatico.md"
+  },
+  {
+    "id": "es-es-babasonicos-babasonicos-la-lanza",
+    "title": "La lanza",
+    "artist": "Babasónicos",
+    "key": "",
+    "file": "es/babasonicos/babasonicos-la-lanza.md"
+  },
+  {
+    "id": "es-es-babasonicos-babasonicos-pijamas",
+    "title": "Pijamas",
+    "artist": "Babasónicos",
+    "key": "",
+    "file": "es/babasonicos/babasonicos-pijamas.md"
   }
 ]
