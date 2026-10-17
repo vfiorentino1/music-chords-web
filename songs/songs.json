@@ -1463,5 +1463,75 @@
     "artist": "La Joven Guardia",
     "key": "",
     "file": "es/la-joven-guardia/la-joven-guardia-extrano-pelo-la.md"
+  },
+  {
+    "id": "es-la-mancha-de-rolando-la-macha-de-r-arde-la-ciudad",
+    "title": "Arde la ciudad",
+    "artist": "La Mancha de Rolando",
+    "key": "",
+    "file": "es/la-mancha-de-rolando/la-macha-de-r-arde-la-ciudad.md"
+  },
+  {
+    "id": "es-leon-gieco-leon-gieco-solo-le-pido-a-dios",
+    "title": "Sólo le pido a Dios",
+    "artist": "León Gieco",
+    "key": "",
+    "file": "es/leon-gieco/leon-gieco-solo-le-pido-a-dios.md"
+  },
+  {
+    "id": "es-los-piojos-los-piojos-tan-solo",
+    "title": "Tan solo",
+    "artist": "Los Piojos",
+    "key": "",
+    "file": "es/los-piojos/los-piojos-tan-solo.md"
+  },
+  {
+    "id": "es-mana-mana-el-muelle-de-san-blas",
+    "title": "En el muelle de San Blas",
+    "artist": "Maná",
+    "key": "",
+    "file": "es/mana/mana-el-muelle-de-san-blas.md"
+  },
+  {
+    "id": "es-mana-mana-rayando-el-sol",
+    "title": "Rayando el sol",
+    "artist": "Maná",
+    "key": "",
+    "file": "es/mana/mana-rayando-el-sol.md"
+  },
+  {
+    "id": "es-manu-chao-mano-chao-el-viento",
+    "title": "El viento",
+    "artist": "Manu Chao",
+    "key": "",
+    "file": "es/manu-chao/mano-chao-el-viento.md"
+  },
+  {
+    "id": "es-manu-chao-mano-chao-minha-galera",
+    "title": "Minha galera",
+    "artist": "Manu Chao",
+    "key": "",
+    "file": "es/manu-chao/mano-chao-minha-galera.md"
+  },
+  {
+    "id": "es-manu-chao-manu-chao-clandestino",
+    "title": "Clandestino",
+    "artist": "Manu Chao",
+    "key": "",
+    "file": "es/manu-chao/manu-chao-clandestino.md"
+  },
+  {
+    "id": "es-manu-chao-manu-chao-desaparecido",
+    "title": "Desaparecido",
+    "artist": "Manu Chao",
+    "key": "",
+    "file": "es/manu-chao/manu-chao-desaparecido.md"
+  },
+  {
+    "id": "es-manu-chao-manu-chao-me-gustas-tu",
+    "title": "Me gustas tú",
+    "artist": "Manu Chao",
+    "key": "",
+    "file": "es/manu-chao/manu-chao-me-gustas-tu.md"
   }
 ]
