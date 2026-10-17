@@ -720,5 +720,11 @@
     "artist": "Andrés Calamaro",
     "key": "",
     "file": "es/calamaro/yo-no-voy-a-morir.md"
+  },
+  {
+    "id": "es-calamaro-mi-enfermedad",
+    "title": "Mi enfermedad",
+    "artist": "Andrés Calamaro",
+    "file": "es/calamaro/mi-enfermedad.md"
   }
 ]
