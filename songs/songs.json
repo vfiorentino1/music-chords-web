@@ -1708,5 +1708,54 @@
     "artist": "Ratones Paranoicos",
     "key": "",
     "file": "es/ratones-paranoicos/quiero-verla-en-el-show.md"
+  },
+  {
+    "id": "es-chala-madre-chala-madre",
+    "title": "No me dejes corazón",
+    "artist": "Chala Madre",
+    "key": "",
+    "file": "es/chala-madre/chala-madre.md"
+  },
+  {
+    "id": "es-dai-dai-dai-dai",
+    "title": "Dai Dai",
+    "artist": "Dai Dai",
+    "key": "",
+    "file": "es/dai-dai/dai-dai.md"
+  },
+  {
+    "id": "es-sin-atribucion-documento-sin-titulo-1",
+    "title": "Fasolita querido",
+    "artist": "Intérprete por confirmar",
+    "key": "",
+    "file": "es/sin-atribucion/documento-sin-titulo-1.md"
+  },
+  {
+    "id": "es-las-pastillas-del-abuelo-el-sensei",
+    "title": "El Sensei",
+    "artist": "Las Pastillas del Abuelo",
+    "key": "",
+    "file": "es/las-pastillas-del-abuelo/el-sensei.md"
+  },
+  {
+    "id": "es-sin-atribucion-leonel-el-feo",
+    "title": "El feo",
+    "artist": "Intérprete por confirmar",
+    "key": "",
+    "file": "es/sin-atribucion/leonel-el-feo.md"
+  },
+  {
+    "id": "es-cancion-del-mariachi-mariachi-a-banderas",
+    "title": "Canción del mariachi",
+    "artist": "Los Lobos / Antonio Banderas",
+    "key": "",
+    "file": "es/cancion-del-mariachi/mariachi-a-banderas.md"
+  },
+  {
+    "id": "es-carlos-puebla-tango-f-hasta-siempre",
+    "title": "Hasta siempre",
+    "artist": "Carlos Puebla",
+    "key": "",
+    "file": "es/carlos-puebla/tango-f-hasta-siempre.md"
   }
 ]
