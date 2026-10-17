@@ -1243,5 +1243,89 @@
     "artist": "Shakira",
     "key": "",
     "file": "es/shakira/bzrp.md"
+  },
+  {
+    "id": "es-es-traidores-traidores-amanecer",
+    "title": "Amanecer",
+    "artist": "Los Traidores",
+    "key": "",
+    "file": "es/traidores/traidores-amanecer.md"
+  },
+  {
+    "id": "es-es-traidores-traidores-bailando-en-la-oscuridad",
+    "title": "Bailando En La Oscuridad",
+    "artist": "Los Traidores",
+    "key": "",
+    "file": "es/traidores/traidores-bailando-en-la-oscuridad.md"
+  },
+  {
+    "id": "es-es-traidores-traidores-como-una-plegaria",
+    "title": "Como Una Plegaria",
+    "artist": "Los Traidores",
+    "key": "",
+    "file": "es/traidores/traidores-como-una-plegaria.md"
+  },
+  {
+    "id": "es-es-traidores-traidores-cronica",
+    "title": "Cronica",
+    "artist": "Los Traidores",
+    "key": "",
+    "file": "es/traidores/traidores-cronica.md"
+  },
+  {
+    "id": "es-es-traidores-traidores-de-amor-y-de-guerra",
+    "title": "De Amor Y De Guerra",
+    "artist": "Los Traidores",
+    "key": "",
+    "file": "es/traidores/traidores-de-amor-y-de-guerra.md"
+  },
+  {
+    "id": "es-es-traidores-traidores-flores",
+    "title": "Flores",
+    "artist": "Los Traidores",
+    "key": "",
+    "file": "es/traidores/traidores-flores.md"
+  },
+  {
+    "id": "es-es-traidores-traidores-fundas-plasticas",
+    "title": "Fundas Plasticas",
+    "artist": "Los Traidores",
+    "key": "",
+    "file": "es/traidores/traidores-fundas-plasticas.md"
+  },
+  {
+    "id": "es-es-traidores-traidores-la-lluvia-cae",
+    "title": "La Lluvia Cae",
+    "artist": "Los Traidores",
+    "key": "",
+    "file": "es/traidores/traidores-la-lluvia-cae.md"
+  },
+  {
+    "id": "es-es-traidores-traidores-la-muerte-elegante",
+    "title": "La Muerte Elegante",
+    "artist": "Los Traidores",
+    "key": "",
+    "file": "es/traidores/traidores-la-muerte-elegante.md"
+  },
+  {
+    "id": "es-es-traidores-traidores-maquina",
+    "title": "Maquina",
+    "artist": "Los Traidores",
+    "key": "",
+    "file": "es/traidores/traidores-maquina.md"
+  },
+  {
+    "id": "es-es-traidores-traidores-solo-fotografias",
+    "title": "Solo Fotografias",
+    "artist": "Los Traidores",
+    "key": "",
+    "file": "es/traidores/traidores-solo-fotografias.md"
+  },
+  {
+    "id": "es-es-traidores-traidores-viviana",
+    "title": "Viviana",
+    "artist": "Los Traidores",
+    "key": "",
+    "file": "es/traidores/traidores-viviana.md"
   }
 ]
