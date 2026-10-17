@@ -1820,5 +1820,54 @@
     "artist": "Green Day",
     "key": "",
     "file": "en/green-day/greenday-when-i-come-around.md"
+  },
+  {
+    "id": "en-en-metallica-metallica-n-else-matters",
+    "title": "Nothing Else Matters",
+    "artist": "Metallica",
+    "key": "",
+    "file": "en/metallica/metallica-n-else-matters.md"
+  },
+  {
+    "id": "en-en-metallica-metallica-unforg-2",
+    "title": "The Unforgiven II",
+    "artist": "Metallica",
+    "key": "",
+    "file": "en/metallica/metallica-unforg-2.md"
+  },
+  {
+    "id": "en-en-metallica-metallica-whiskey",
+    "title": "Whiskey in the Jar",
+    "artist": "Metallica",
+    "key": "",
+    "file": "en/metallica/metallica-whiskey.md"
+  },
+  {
+    "id": "en-en-metallica-the-day-that-never-comes",
+    "title": "The Day That Never Comes",
+    "artist": "Metallica",
+    "key": "",
+    "file": "en/metallica/the-day-that-never-comes.md"
+  },
+  {
+    "id": "en-en-linkin-park-acustico-in-the-end-nice",
+    "title": "In the End",
+    "artist": "Linkin Park",
+    "key": "",
+    "file": "en/linkin-park/acustico-in-the-end-nice.md"
+  },
+  {
+    "id": "en-en-linkin-park-linkin-numb",
+    "title": "Numb",
+    "artist": "Linkin Park",
+    "key": "",
+    "file": "en/linkin-park/linkin-numb.md"
+  },
+  {
+    "id": "en-en-linkin-park-somwhere-i-belong-original",
+    "title": "Somewhere I Belong",
+    "artist": "Linkin Park",
+    "key": "",
+    "file": "en/linkin-park/somwhere-i-belong-original.md"
   }
 ]
