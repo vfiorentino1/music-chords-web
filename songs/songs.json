@@ -845,5 +845,40 @@
     "artist": "La Renga",
     "key": "",
     "file": "es/la-renga/la-renga-panic-show.md"
+  },
+  {
+    "id": "es-es-la-trampa-caida-libre-la-trampa",
+    "title": "Caida Libre La Trampa",
+    "artist": "La Trampa",
+    "key": "",
+    "file": "es/la-trampa/caida-libre-la-trampa.md"
+  },
+  {
+    "id": "es-es-la-trampa-el-poeta-la-trampa",
+    "title": "El Poeta La Trampa",
+    "artist": "La Trampa",
+    "key": "",
+    "file": "es/la-trampa/el-poeta-la-trampa.md"
+  },
+  {
+    "id": "es-es-la-trampa-mar-de-fondo-la-trampa",
+    "title": "Mar De Fondo La Trampa",
+    "artist": "La Trampa",
+    "key": "",
+    "file": "es/la-trampa/mar-de-fondo-la-trampa.md"
+  },
+  {
+    "id": "es-es-la-vela-de-atar-la-vela",
+    "title": "De Atar La Vela",
+    "artist": "La Vela Puerca",
+    "key": "",
+    "file": "es/la-vela/de-atar-la-vela.md"
+  },
+  {
+    "id": "es-es-la-vela-la-vela-mi-semilla",
+    "title": "Mi Semilla",
+    "artist": "La Vela Puerca",
+    "key": "",
+    "file": "es/la-vela/la-vela-mi-semilla.md"
   }
 ]
