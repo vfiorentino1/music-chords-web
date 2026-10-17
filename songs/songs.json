@@ -645,5 +645,17 @@
     "artist": "Babasónicos",
     "key": "",
     "file": "es/calamaro/calamaro-flaca.md"
+  },
+  {
+    "id": "es-babasonicos-babasonicos-irresponsables",
+    "title": "Irresponsables",
+    "artist": "Babasonicos",
+    "file": "es/babasonicos/babasonicos-irresponsables.md"
+  },
+  {
+    "id": "es-babasonicos-irresponsables",
+    "title": "Irresponsables",
+    "artist": "Babasonicos",
+    "file": "es/babasonicos/irresponsables.md"
   }
 ]
