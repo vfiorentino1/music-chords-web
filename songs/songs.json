@@ -1603,5 +1603,96 @@
     "artist": "Sui Generis",
     "key": "",
     "file": "es/sui-generis/sui-generis-cancion-para-mi-muerte.md"
+  },
+  {
+    "id": "es-sui-generis-sui-generis-el-fantasma-de-cantverville",
+    "title": "El fantasma de Canterville",
+    "artist": "Sui Generis",
+    "key": "",
+    "file": "es/sui-generis/sui-generis-el-fantasma-de-cantverville.md"
+  },
+  {
+    "id": "es-tan-bionica-tambionica-ciudad-magica",
+    "title": "Ciudad mágica",
+    "artist": "Tan Biónica",
+    "key": "",
+    "file": "es/tan-bionica/tambionica-ciudad-magica.md"
+  },
+  {
+    "id": "es-tan-bionica-tan-bionica-obesionario-en-la",
+    "title": "Obsesionario en La Mayor",
+    "artist": "Tan Biónica",
+    "key": "",
+    "file": "es/tan-bionica/tan-bionica-obesionario-en-la.md"
+  },
+  {
+    "id": "es-tan-bionica-tanbionica-ella",
+    "title": "Ella",
+    "artist": "Tan Biónica",
+    "key": "",
+    "file": "es/tan-bionica/tanbionica-ella.md"
+  },
+  {
+    "id": "es-moris-tango-feroz-el-oso",
+    "title": "El oso",
+    "artist": "Moris",
+    "key": "",
+    "file": "es/moris/tango-feroz-el-oso.md"
+  },
+  {
+    "id": "es-tribalistas-tribalistas-carnavalia",
+    "title": "Carnavália",
+    "artist": "Tribalistas",
+    "key": "",
+    "file": "es/tribalistas/tribalistas-carnavalia.md"
+  },
+  {
+    "id": "es-trosky-vengaran-trosky-alma-en-dos",
+    "title": "Alma en dos",
+    "artist": "Trosky Vengarán",
+    "key": "",
+    "file": "es/trosky-vengaran/trosky-alma-en-dos.md"
+  },
+  {
+    "id": "es-turf-turf-magia-blanca",
+    "title": "Magia blanca",
+    "artist": "Turf",
+    "key": "",
+    "file": "es/turf/turf-magia-blanca.md"
+  },
+  {
+    "id": "es-turf-turf-yo-no-me-quiero-casar",
+    "title": "Yo no me quiero casar, ¿y usted?",
+    "artist": "Turf",
+    "key": "",
+    "file": "es/turf/turf-yo-no-me-quiero-casar.md"
+  },
+  {
+    "id": "es-vicentico-vicentico-culpable",
+    "title": "Culpable",
+    "artist": "Vicentico",
+    "key": "",
+    "file": "es/vicentico/vicentico-culpable.md"
+  },
+  {
+    "id": "es-vicentico-vicentico-los-caminos-de-la-vida",
+    "title": "Los caminos de la vida",
+    "artist": "Vicentico",
+    "key": "",
+    "file": "es/vicentico/vicentico-los-caminos-de-la-vida.md"
+  },
+  {
+    "id": "es-vilma-palma-vilma-palma-auto-rojo",
+    "title": "Auto rojo",
+    "artist": "Vilma Palma e Vampiros",
+    "key": "",
+    "file": "es/vilma-palma/vilma-palma-auto-rojo.md"
+  },
+  {
+    "id": "es-vilma-palma-vilma-palma-l-a-pachanga",
+    "title": "La pachanga",
+    "artist": "Vilma Palma e Vampiros",
+    "key": "",
+    "file": "es/vilma-palma/vilma-palma-l-a-pachanga.md"
   }
 ]
