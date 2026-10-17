@@ -1869,5 +1869,61 @@
     "artist": "Linkin Park",
     "key": "",
     "file": "en/linkin-park/somwhere-i-belong-original.md"
+  },
+  {
+    "id": "en-nirvana-all-apologies",
+    "title": "All Apologies",
+    "artist": "Nirvana",
+    "key": "",
+    "file": "en/nirvana/all-apologies.md"
+  },
+  {
+    "id": "en-nirvana-breed",
+    "title": "Breed",
+    "artist": "Nirvana",
+    "key": "",
+    "file": "en/nirvana/breed.md"
+  },
+  {
+    "id": "en-nirvana-nirvana-about-a-girl",
+    "title": "About a Girl",
+    "artist": "Nirvana",
+    "key": "",
+    "file": "en/nirvana/nirvana-about-a-girl.md"
+  },
+  {
+    "id": "en-nirvana-nirvana-aneurysm",
+    "title": "Aneurysm",
+    "artist": "Nirvana",
+    "key": "",
+    "file": "en/nirvana/nirvana-aneurysm.md"
+  },
+  {
+    "id": "en-nirvana-nirvana-come-as-you-are",
+    "title": "Come as You Are",
+    "artist": "Nirvana",
+    "key": "",
+    "file": "en/nirvana/nirvana-come-as-you-are.md"
+  },
+  {
+    "id": "en-nirvana-nirvana-drain-you",
+    "title": "Drain You",
+    "artist": "Nirvana",
+    "key": "",
+    "file": "en/nirvana/nirvana-drain-you.md"
+  },
+  {
+    "id": "en-nirvana-nirvana-dumb",
+    "title": "Dumb",
+    "artist": "Nirvana",
+    "key": "",
+    "file": "en/nirvana/nirvana-dumb.md"
+  },
+  {
+    "id": "en-nirvana-nirvana-heart-shaped-box",
+    "title": "Heart-Shaped Box",
+    "artist": "Nirvana",
+    "key": "",
+    "file": "en/nirvana/nirvana-heart-shaped-box.md"
   }
 ]
