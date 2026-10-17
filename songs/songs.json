@@ -1267,5 +1267,61 @@
     "artist": "Los Traidores",
     "key": "",
     "file": "es/traidores/traidores-viviana.md"
+  },
+  {
+    "id": "es-almafuerte-alma-fuerta-toro-y-pampa",
+    "title": "Toro y pampa",
+    "artist": "Almafuerte",
+    "key": "",
+    "file": "es/almafuerte/alma-fuerta-toro-y-pampa.md"
+  },
+  {
+    "id": "es-almafuerte-alma-fuerte-convide-rutero",
+    "title": "Convide rutero",
+    "artist": "Almafuerte",
+    "key": "",
+    "file": "es/almafuerte/alma-fuerte-convide-rutero.md"
+  },
+  {
+    "id": "es-arbol-arbol-el-fantasma",
+    "title": "El fantasma",
+    "artist": "Árbol",
+    "key": "",
+    "file": "es/arbol/arbol-el-fantasma.md"
+  },
+  {
+    "id": "es-attaque-77-ataque-hacelo-por-mi",
+    "title": "Hacelo por mí",
+    "artist": "Attaque 77",
+    "key": "",
+    "file": "es/attaque-77/ataque-hacelo-por-mi.md"
+  },
+  {
+    "id": "es-buena-vista-social-club-buena-vista-candela",
+    "title": "Candela",
+    "artist": "Buena Vista Social Club",
+    "key": "",
+    "file": "es/buena-vista-social-club/buena-vista-candela.md"
+  },
+  {
+    "id": "es-buena-vista-social-club-buena-vista-chan-cham",
+    "title": "Chan Chan",
+    "artist": "Buena Vista Social Club",
+    "key": "",
+    "file": "es/buena-vista-social-club/buena-vista-chan-cham.md"
+  },
+  {
+    "id": "es-buena-vista-social-club-buena-vista-e-cuarto-de-tula",
+    "title": "El cuarto de Tula",
+    "artist": "Buena Vista Social Club",
+    "key": "",
+    "file": "es/buena-vista-social-club/buena-vista-e-cuarto-de-tula.md"
+  },
+  {
+    "id": "es-buena-vista-social-club-buena-vista-el-carretero",
+    "title": "El carretero",
+    "artist": "Buena Vista Social Club",
+    "key": "",
+    "file": "es/buena-vista-social-club/buena-vista-el-carretero.md"
   }
 ]
