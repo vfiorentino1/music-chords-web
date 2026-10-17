@@ -1533,5 +1533,75 @@
     "artist": "Manu Chao",
     "key": "",
     "file": "es/manu-chao/manu-chao-me-gustas-tu.md"
+  },
+  {
+    "id": "es-molotov-molotov-frijolero",
+    "title": "Frijolero",
+    "artist": "Molotov",
+    "key": "",
+    "file": "es/molotov/molotov-frijolero.md"
+  },
+  {
+    "id": "es-molotov-molotov-gimme-tha-power",
+    "title": "Gimme tha power",
+    "artist": "Molotov",
+    "key": "",
+    "file": "es/molotov/molotov-gimme-tha-power.md"
+  },
+  {
+    "id": "es-molotov-molotov-hit-me",
+    "title": "Hit me",
+    "artist": "Molotov",
+    "key": "",
+    "file": "es/molotov/molotov-hit-me.md"
+  },
+  {
+    "id": "es-molotov-molotov-marciano",
+    "title": "Marciano",
+    "artist": "Molotov",
+    "key": "",
+    "file": "es/molotov/molotov-marciano.md"
+  },
+  {
+    "id": "es-molotov-molotov-use-it-or-loose-it",
+    "title": "Use it or lose it",
+    "artist": "Molotov",
+    "key": "",
+    "file": "es/molotov/molotov-use-it-or-loose-it.md"
+  },
+  {
+    "id": "es-pappo-pappo-juntos-a-la-par",
+    "title": "Juntos a la par",
+    "artist": "Pappo",
+    "key": "",
+    "file": "es/pappo/pappo-juntos-a-la-par.md"
+  },
+  {
+    "id": "es-santana-santana-corazon-espinado",
+    "title": "Corazón espinado",
+    "artist": "Santana",
+    "key": "",
+    "file": "es/santana/santana-corazon-espinado.md"
+  },
+  {
+    "id": "es-serrat-serrat-todo-pasa",
+    "title": "Todo pasa",
+    "artist": "Joan Manuel Serrat",
+    "key": "",
+    "file": "es/serrat/serrat-todo-pasa.md"
+  },
+  {
+    "id": "es-victor-heredia-sobreviviendo",
+    "title": "Sobreviviendo",
+    "artist": "Víctor Heredia",
+    "key": "",
+    "file": "es/victor-heredia/sobreviviendo.md"
+  },
+  {
+    "id": "es-sui-generis-sui-generis-cancion-para-mi-muerte",
+    "title": "Canción para mi muerte",
+    "artist": "Sui Generis",
+    "key": "",
+    "file": "es/sui-generis/sui-generis-cancion-para-mi-muerte.md"
   }
 ]
