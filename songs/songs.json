@@ -1393,5 +1393,75 @@
     "artist": "Estopa",
     "key": "",
     "file": "es/estopa/estopa-tu-calorro.md"
+  },
+  {
+    "id": "es-indio-solari-indio-habia-una-vez",
+    "title": "Había una vez",
+    "artist": "Indio Solari",
+    "key": "",
+    "file": "es/indio-solari/indio-habia-una-vez.md"
+  },
+  {
+    "id": "es-intoxicados-intoxicados-fuego",
+    "title": "Fuego",
+    "artist": "Intoxicados",
+    "key": "",
+    "file": "es/intoxicados/intoxicados-fuego.md"
+  },
+  {
+    "id": "es-almafuerte-iorio-se-vos",
+    "title": "Sé vos",
+    "artist": "Almafuerte",
+    "key": "",
+    "file": "es/almafuerte/iorio-se-vos.md"
+  },
+  {
+    "id": "es-jaime-roos-jaime-brindis-por-pierrot",
+    "title": "Brindis por Pierrot",
+    "artist": "Jaime Roos",
+    "key": "",
+    "file": "es/jaime-roos/jaime-brindis-por-pierrot.md"
+  },
+  {
+    "id": "es-jaime-roos-jaime-si-me-voy-antes-que-vos",
+    "title": "Si me voy antes que vos",
+    "artist": "Jaime Roos",
+    "key": "",
+    "file": "es/jaime-roos/jaime-si-me-voy-antes-que-vos.md"
+  },
+  {
+    "id": "es-jarabe-de-palo-jaraba-de-palo-depende",
+    "title": "Depende",
+    "artist": "Jarabe de Palo",
+    "key": "",
+    "file": "es/jarabe-de-palo/jaraba-de-palo-depende.md"
+  },
+  {
+    "id": "es-jarabe-de-palo-jaraba-de-palo-la-flaca",
+    "title": "La flaca",
+    "artist": "Jarabe de Palo",
+    "key": "",
+    "file": "es/jarabe-de-palo/jaraba-de-palo-la-flaca.md"
+  },
+  {
+    "id": "es-kapanga-kapanga-el-mono-relojero",
+    "title": "El mono relojero",
+    "artist": "Kapanga",
+    "key": "",
+    "file": "es/kapanga/kapanga-el-mono-relojero.md"
+  },
+  {
+    "id": "es-kapanga-kapanga-ramon",
+    "title": "Ramón",
+    "artist": "Kapanga",
+    "key": "",
+    "file": "es/kapanga/kapanga-ramon.md"
+  },
+  {
+    "id": "es-la-joven-guardia-la-joven-guardia-extrano-pelo-la",
+    "title": "El extraño del pelo largo",
+    "artist": "La Joven Guardia",
+    "key": "",
+    "file": "es/la-joven-guardia/la-joven-guardia-extrano-pelo-la.md"
   }
 ]
