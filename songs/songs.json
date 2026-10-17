@@ -1323,5 +1323,75 @@
     "artist": "Buena Vista Social Club",
     "key": "",
     "file": "es/buena-vista-social-club/buena-vista-el-carretero.md"
+  },
+  {
+    "id": "es-bizarrap-bzrp-quevedo",
+    "title": "BZRP Music Sessions #52",
+    "artist": "Bizarrap y Quevedo",
+    "key": "",
+    "file": "es/bizarrap/bzrp-quevedo.md"
+  },
+  {
+    "id": "es-fabulosos-cadillacs-cadillacs-carnaval-toda-la-vida",
+    "title": "Carnaval toda la vida",
+    "artist": "Los Fabulosos Cadillacs",
+    "key": "",
+    "file": "es/fabulosos-cadillacs/cadillacs-carnaval-toda-la-vida.md"
+  },
+  {
+    "id": "es-fabulosos-cadillacs-cadillacs-matador",
+    "title": "Matador",
+    "artist": "Los Fabulosos Cadillacs",
+    "key": "",
+    "file": "es/fabulosos-cadillacs/cadillacs-matador.md"
+  },
+  {
+    "id": "es-catupecu-machu-catupecu-aveces-vuelvo",
+    "title": "A veces vuelvo",
+    "artist": "Catupecu Machu",
+    "key": "",
+    "file": "es/catupecu-machu/catupecu-aveces-vuelvo.md"
+  },
+  {
+    "id": "es-charly-garcia-charly-sweet-home-ba",
+    "title": "Sweet Home Buenos Aires",
+    "artist": "Charly García",
+    "key": "",
+    "file": "es/charly-garcia/charly-sweet-home-ba.md"
+  },
+  {
+    "id": "es-diego-torres-diego-torres-las-leyes-de-la-vida",
+    "title": "Las leyes de la vida",
+    "artist": "Diego Torres",
+    "key": "",
+    "file": "es/diego-torres/diego-torres-las-leyes-de-la-vida.md"
+  },
+  {
+    "id": "es-diego-torres-diego-torrres-mejor-que-ayer",
+    "title": "Mejor que ayer",
+    "artist": "Diego Torres",
+    "key": "",
+    "file": "es/diego-torres/diego-torrres-mejor-que-ayer.md"
+  },
+  {
+    "id": "es-dos-minutos-dos-minutos-ya-no-sos-igual",
+    "title": "Ya no sos igual",
+    "artist": "2 Minutos",
+    "key": "",
+    "file": "es/dos-minutos/dos-minutos-ya-no-sos-igual.md"
+  },
+  {
+    "id": "es-emanero-emanero-bandido",
+    "title": "Bandido",
+    "artist": "Emanero",
+    "key": "",
+    "file": "es/emanero/emanero-bandido.md"
+  },
+  {
+    "id": "es-estopa-estopa-tu-calorro",
+    "title": "Tu calorro",
+    "artist": "Estopa",
+    "key": "",
+    "file": "es/estopa/estopa-tu-calorro.md"
   }
 ]
