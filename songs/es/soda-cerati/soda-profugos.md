@@ -1,0 +1,99 @@
+INTRO [ E A ] (4)  G
+
+
+                    D   Em
+Somos complices los dos
+
+                           Bm   G
+al menos se que huyo porque amo
+
+               D   Em
+necesito distinción
+
+                  F#m                           [ E A ] (2)  G
+estar asi despierto   es un delirio de condenados
+
+
+
+                     D  Em
+Como un efecto residual
+
+                          Bm  G
+yo siempre tomare el desviro
+
+                     D  Em
+tus ojos nunca mentiran
+
+                    F#m                          D
+pero ese ruido blanco   es una alarma en mis oidos
+
+
+
+        Am       Em
+No seas tan cruel
+
+           Bm           D
+no busques más pretextos
+
+        Am       Em
+no seas tan cruel
+
+                 G   C       Em F#m D Bm  [ E A ] (2)  G
+siempre seremos profugos los dos
+
+
+
+                D  Em
+No tenemos donde ir
+
+                            Bm  G
+somos como un area desvastada
+
+                  D     Em
+carreteras sin sentido
+
+                    F#m
+religiones sin motivo,  como podremos sobrevivir
+
+
+
+D        Am       Em
+No seas tan cruel
+
+           Bm           D
+no busques más pretextos
+
+        Am       Em
+no seas tan cruel
+
+              G
+siempre seremos
+
+                 C           Em F#m D Bm  [ E A ] (2)
+siempre seremos profugos los dos
+
+
+
+SOLO [ G ] [ E A ] (2)
+
+
+
+D             Am       Em
+Ven, no seas tan cruel
+
+           Bm           D
+no busques más pretextos
+
+        Am       Em
+no seas tan cruel
+
+                 G   D Am  Em Bm D Am Em
+siempre seremos profugos... ooh
+
+
+                 G   D  Am Em Bm D Am Em G
+siempre seremos profugos...
+
+
+               Em D C  G
+siempre seremos...

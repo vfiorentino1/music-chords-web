@@ -1096,5 +1096,47 @@
     "artist": "Sumo",
     "key": "",
     "file": "es/sumo/sumo-white-trash-v2.md"
+  },
+  {
+    "id": "es-es-soda-cerati-cerati-crimen",
+    "title": "Crimen",
+    "artist": "Gustavo Cerati",
+    "key": "",
+    "file": "es/soda-cerati/cerati-crimen.md"
+  },
+  {
+    "id": "es-es-soda-cerati-cerati-puente",
+    "title": "Puente",
+    "artist": "Gustavo Cerati",
+    "key": "",
+    "file": "es/soda-cerati/cerati-puente.md"
+  },
+  {
+    "id": "es-es-soda-cerati-cerati-puente-2",
+    "title": "Puente (versión 2)",
+    "artist": "Gustavo Cerati",
+    "key": "",
+    "file": "es/soda-cerati/cerati-puente-2.md"
+  },
+  {
+    "id": "es-es-soda-cerati-soda-en-la-ciudad-de-la-furia",
+    "title": "En la ciudad de la furia",
+    "artist": "Soda Stereo",
+    "key": "",
+    "file": "es/soda-cerati/soda-en-la-ciudad-de-la-furia.md"
+  },
+  {
+    "id": "es-es-soda-cerati-soda-entre-canibales",
+    "title": "Entre caníbales",
+    "artist": "Soda Stereo",
+    "key": "",
+    "file": "es/soda-cerati/soda-entre-canibales.md"
+  },
+  {
+    "id": "es-es-soda-cerati-soda-profugos",
+    "title": "Prófugos",
+    "artist": "Soda Stereo",
+    "key": "",
+    "file": "es/soda-cerati/soda-profugos.md"
   }
 ]
