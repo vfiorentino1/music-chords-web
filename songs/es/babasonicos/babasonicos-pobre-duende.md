@@ -1,0 +1,34 @@
+Acordes:> Gm C Eb F Bb D 
+
+Aqui va la transcripción correcta: 
+
+Gm                     F 
+Como agitadores en un medio conservador 
+C 
+Muy desquiciados 
+
+Bb                     F             C 
+Bajaron mambo, alto cope, estilo y gran provocación 
+Bb             F          C 
+Y se marcharon sin decir nada 
+
+Gm                                   C 
+Ustedes lo pedían Ustedes lo querían Ahí lo tienen 
+Eb                    D 
+El cisne apareció y ustedes 
+Gm                                F 
+miren lo que han hecho con el duende del rock 
+C 
+Lo han destrozado, lo han 
+
+Bb                  F                 C 
+convertido en una estampa estúpida de su misión 
+Bb                  F                 C 
+Y desalmado se fue de casa 
+
+Gm                                    C 
+Ustedes lo pedían,Ustedes lo querían,Ahí lo tienen 
+Eb                       D            Gm 
+El cisne secuestró al duende y lo llevó, 
+Eb                       D      Gm 
+El cisne se llevó al duende lejos.
