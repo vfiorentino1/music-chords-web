@@ -1988,5 +1988,82 @@
     "artist": "Nirvana",
     "key": "",
     "file": "en/nirvana/sliver.md"
+  },
+  {
+    "id": "en-en-alice-in-chains-alice-in-chains-down-in-a-hole",
+    "title": "Down in a Hole",
+    "artist": "Alice in Chains",
+    "key": "",
+    "file": "en/alice-in-chains/alice-in-chains-down-in-a-hole.md"
+  },
+  {
+    "id": "en-en-alice-in-chains-alice-in-chains-man-in-the-box",
+    "title": "Man in the Box",
+    "artist": "Alice in Chains",
+    "key": "",
+    "file": "en/alice-in-chains/alice-in-chains-man-in-the-box.md"
+  },
+  {
+    "id": "en-en-creedence-old-man-down-the-road-and-centerfield",
+    "title": "The Old Man Down the Road / Centerfield",
+    "artist": "John Fogerty",
+    "key": "",
+    "file": "en/creedence/old-man-down-the-road-and-centerfield.md"
+  },
+  {
+    "id": "en-en-rolling-stones-angie",
+    "title": "Angie",
+    "artist": "The Rolling Stones",
+    "key": "",
+    "file": "en/rolling-stones/angie.md"
+  },
+  {
+    "id": "en-en-sublime-bad-fish",
+    "title": "Badfish",
+    "artist": "Sublime",
+    "key": "",
+    "file": "en/sublime/bad-fish.md"
+  },
+  {
+    "id": "en-en-sublime-doint-time",
+    "title": "Doin' Time",
+    "artist": "Sublime",
+    "key": "",
+    "file": "en/sublime/doint-time.md"
+  },
+  {
+    "id": "en-en-sublime-rivers-of-babylon",
+    "title": "Rivers of Babylon",
+    "artist": "Sublime",
+    "key": "",
+    "file": "en/sublime/rivers-of-babylon.md"
+  },
+  {
+    "id": "en-en-sublime-santeria",
+    "title": "Santeria",
+    "artist": "Sublime",
+    "key": "",
+    "file": "en/sublime/santeria.md"
+  },
+  {
+    "id": "en-en-sublime-smoke-two-joints",
+    "title": "Smoke Two Joints",
+    "artist": "Sublime",
+    "key": "",
+    "file": "en/sublime/smoke-two-joints.md"
+  },
+  {
+    "id": "en-en-sublime-what-i-got",
+    "title": "What I Got",
+    "artist": "Sublime",
+    "key": "",
+    "file": "en/sublime/what-i-got.md"
+  },
+  {
+    "id": "en-en-sublime-wrong-way",
+    "title": "Wrong Way",
+    "artist": "Sublime",
+    "key": "",
+    "file": "en/sublime/wrong-way.md"
   }
 ]
