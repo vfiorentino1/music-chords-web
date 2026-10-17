@@ -2065,5 +2065,40 @@
     "artist": "Sublime",
     "key": "",
     "file": "en/sublime/wrong-way.md"
+  },
+  {
+    "id": "en-system-of-a-down-byob",
+    "title": "B.Y.O.B.",
+    "artist": "System of a Down",
+    "key": "",
+    "file": "en/system-of-a-down/byob.md"
+  },
+  {
+    "id": "en-system-of-a-down-chop-suey",
+    "title": "Chop Suey!",
+    "artist": "System of a Down",
+    "key": "",
+    "file": "en/system-of-a-down/chop-suey.md"
+  },
+  {
+    "id": "en-system-of-a-down-lonely-day",
+    "title": "Lonely Day",
+    "artist": "System of a Down",
+    "key": "",
+    "file": "en/system-of-a-down/lonely-day.md"
+  },
+  {
+    "id": "en-system-of-a-down-system-of-a-d-toxicity",
+    "title": "Toxicity",
+    "artist": "System of a Down",
+    "key": "",
+    "file": "en/system-of-a-down/system-of-a-d-toxicity.md"
+  },
+  {
+    "id": "en-system-of-a-down-system-of-aerials",
+    "title": "Aerials",
+    "artist": "System of a Down",
+    "key": "",
+    "file": "en/system-of-a-down/system-of-aerials.md"
   }
 ]
