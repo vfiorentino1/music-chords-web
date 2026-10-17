@@ -657,5 +657,68 @@
     "title": "Irresponsables",
     "artist": "Babasonicos",
     "file": "es/babasonicos/irresponsables.md"
+  },
+  {
+    "id": "es-es-calamaro-calamaro-la-parte-de-adelante",
+    "title": "La Parte De Adelante",
+    "artist": "Andrés Calamaro",
+    "key": "",
+    "file": "es/calamaro/calamaro-la-parte-de-adelante.md"
+  },
+  {
+    "id": "es-es-calamaro-calamaro-mi-enfermedad",
+    "title": "Mi Enfermedad",
+    "artist": "Andrés Calamaro",
+    "key": "",
+    "file": "es/calamaro/calamaro-mi-enfermedad.md"
+  },
+  {
+    "id": "es-es-calamaro-calamaro-sin-documentos",
+    "title": "Sin Documentos",
+    "artist": "Andrés Calamaro",
+    "key": "",
+    "file": "es/calamaro/calamaro-sin-documentos.md"
+  },
+  {
+    "id": "es-es-calamaro-calamaro-te-quiero",
+    "title": "Te Quiero",
+    "artist": "Andrés Calamaro",
+    "key": "",
+    "file": "es/calamaro/calamaro-te-quiero.md"
+  },
+  {
+    "id": "es-es-calamaro-calamaro-tuyo-siempre",
+    "title": "Tuyo Siempre",
+    "artist": "Andrés Calamaro",
+    "key": "",
+    "file": "es/calamaro/calamaro-tuyo-siempre.md"
+  },
+  {
+    "id": "es-es-calamaro-cuando-te-conoci",
+    "title": "Cuando Te Conoci",
+    "artist": "Andrés Calamaro",
+    "key": "",
+    "file": "es/calamaro/cuando-te-conoci.md"
+  },
+  {
+    "id": "es-es-calamaro-dias-distintos",
+    "title": "Dias Distintos",
+    "artist": "Andrés Calamaro",
+    "key": "",
+    "file": "es/calamaro/dias-distintos.md"
+  },
+  {
+    "id": "es-es-calamaro-flaca-2",
+    "title": "Flaca 2",
+    "artist": "Andrés Calamaro",
+    "key": "",
+    "file": "es/calamaro/flaca-2.md"
+  },
+  {
+    "id": "es-es-calamaro-yo-no-voy-a-morir",
+    "title": "Yo No Voy A Morir",
+    "artist": "Andrés Calamaro",
+    "key": "",
+    "file": "es/calamaro/yo-no-voy-a-morir.md"
   }
 ]
