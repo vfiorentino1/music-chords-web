@@ -836,5 +836,125 @@
     "artist": "Patricio Rey y sus Redonditos de Ricota",
     "key": "",
     "file": "es/redondos/redondos-la-hija-del-fletero.md"
+  },
+  {
+    "id": "en-guns-n-roses-guns-dont-cry",
+    "title": "Guns dont cry",
+    "artist": "Guns n roses",
+    "file": "en/guns-n-roses/guns-dont-cry.md"
+  },
+  {
+    "id": "en-guns-n-roses-guns-sweet-child",
+    "title": "Guns sweet child",
+    "artist": "Guns n roses",
+    "file": "en/guns-n-roses/guns-sweet-child.md"
+  },
+  {
+    "id": "es-babasonicos-babasonicos-irresponsables",
+    "title": "Irresponsables",
+    "artist": "Babasonicos",
+    "file": "es/babasonicos/babasonicos-irresponsables.md"
+  },
+  {
+    "id": "es-babasonicos-irresponsables",
+    "title": "Irresponsables",
+    "artist": "Babasonicos",
+    "file": "es/babasonicos/irresponsables.md"
+  },
+  {
+    "id": "es-calamaro-flaca-2",
+    "title": "Flaca 2",
+    "artist": "Andrés Calamaro",
+    "file": "es/calamaro/flaca-2.md"
+  },
+  {
+    "id": "es-calamaro-mi-enfermedad",
+    "title": "Mi enfermedad",
+    "artist": "Andrés Calamaro",
+    "file": "es/calamaro/mi-enfermedad.md"
+  },
+  {
+    "id": "es-callejeros-callejeros-prohibido",
+    "title": "Prohibido",
+    "artist": "Callejeros",
+    "file": "es/callejeros/callejeros-prohibido.md"
+  },
+  {
+    "id": "es-callejeros-callejeros-rocanroles-sin-destino",
+    "title": "Rocanroles sin destino",
+    "artist": "Callejeros",
+    "file": "es/callejeros/callejeros-rocanroles-sin-destino.md"
+  },
+  {
+    "id": "es-callejeros-callejeros-tan-perfecto",
+    "title": "Tan perfecto",
+    "artist": "Callejeros",
+    "file": "es/callejeros/callejeros-tan-perfecto.md"
+  },
+  {
+    "id": "es-callejeros-callejeros-un-minuto",
+    "title": "Un minuto",
+    "artist": "Callejeros",
+    "file": "es/callejeros/callejeros-un-minuto.md"
+  },
+  {
+    "id": "es-callejeros-callejeros-una-nueva-noche-fria",
+    "title": "Una nueva noche fria",
+    "artist": "Callejeros",
+    "file": "es/callejeros/callejeros-una-nueva-noche-fria.md"
+  },
+  {
+    "id": "es-callejeros-rocanroles-sin-destino",
+    "title": "Rocanroles sin destino",
+    "artist": "Callejeros",
+    "file": "es/callejeros/rocanroles-sin-destino.md"
+  },
+  {
+    "id": "es-callejeros-tan-perfecto",
+    "title": "Tan perfecto",
+    "artist": "Callejeros",
+    "file": "es/callejeros/tan-perfecto.md"
+  },
+  {
+    "id": "es-decadantes-los-autenticos-decadentes-loco",
+    "title": "Los autenticos decadentes loco",
+    "artist": "Decadantes",
+    "file": "es/decadantes/los-autenticos-decadentes-loco.md"
+  },
+  {
+    "id": "es-divididos-divididos-spaguetti",
+    "title": "Spaguetti",
+    "artist": "Divididos",
+    "file": "es/divididos/divididos-spaguetti.md"
+  },
+  {
+    "id": "es-la-renga-la-renga-la-balada-del-diablo-y-la-muerte",
+    "title": "La balada del diablo y la muerte",
+    "artist": "La renga",
+    "file": "es/la-renga/la-renga-la-balada-del-diablo-y-la-muerte.md"
+  },
+  {
+    "id": "es-la-vela-la-vela-el-viejo",
+    "title": "El viejo",
+    "artist": "La vela",
+    "file": "es/la-vela/la-vela-el-viejo.md"
+  },
+  {
+    "id": "es-la-vela-la-vela-jose-sabia",
+    "title": "Jose sabia",
+    "artist": "La vela",
+    "file": "es/la-vela/la-vela-jose-sabia.md"
+  },
+  {
+    "id": "es-la-vela-la-vela-va-a-escampar",
+    "title": "Va a escampar",
+    "artist": "La vela",
+    "file": "es/la-vela/la-vela-va-a-escampar.md"
+  },
+  {
+    "id": "es-la-vela-la-vela-zafar",
+    "title": "Zafar",
+    "artist": "La vela",
+    "file": "es/la-vela/la-vela-zafar.md"
   }
 ]
