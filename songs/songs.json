@@ -1757,5 +1757,68 @@
     "artist": "Carlos Puebla",
     "key": "",
     "file": "es/carlos-puebla/tango-f-hasta-siempre.md"
+  },
+  {
+    "id": "en-en-acdc-acdc-highway-to-hell",
+    "title": "Highway to Hell",
+    "artist": "AC/DC",
+    "key": "",
+    "file": "en/acdc/acdc-highway-to-hell.md"
+  },
+  {
+    "id": "en-en-acdc-acdc-its-a-long-way",
+    "title": "It's a Long Way to the Top (If You Wanna Rock 'n' Roll)",
+    "artist": "AC/DC",
+    "key": "",
+    "file": "en/acdc/acdc-its-a-long-way.md"
+  },
+  {
+    "id": "en-en-acdc-you-shook-me-all-night",
+    "title": "You Shook Me All Night Long",
+    "artist": "AC/DC",
+    "key": "",
+    "file": "en/acdc/you-shook-me-all-night.md"
+  },
+  {
+    "id": "en-en-green-day-green-day-good-ridance",
+    "title": "Good Riddance (Time of Your Life)",
+    "artist": "Green Day",
+    "key": "",
+    "file": "en/green-day/green-day-good-ridance.md"
+  },
+  {
+    "id": "en-en-green-day-greenday-american-idiot",
+    "title": "American Idiot",
+    "artist": "Green Day",
+    "key": "",
+    "file": "en/green-day/greenday-american-idiot.md"
+  },
+  {
+    "id": "en-en-green-day-greenday-basket-case",
+    "title": "Basket Case",
+    "artist": "Green Day",
+    "key": "",
+    "file": "en/green-day/greenday-basket-case.md"
+  },
+  {
+    "id": "en-en-green-day-greenday-boulevard-of-b",
+    "title": "Boulevard of Broken Dreams",
+    "artist": "Green Day",
+    "key": "",
+    "file": "en/green-day/greenday-boulevard-of-b.md"
+  },
+  {
+    "id": "en-en-green-day-greenday-wake-me-up",
+    "title": "Wake Me Up When September Ends",
+    "artist": "Green Day",
+    "key": "",
+    "file": "en/green-day/greenday-wake-me-up.md"
+  },
+  {
+    "id": "en-en-green-day-greenday-when-i-come-around",
+    "title": "When I Come Around",
+    "artist": "Green Day",
+    "key": "",
+    "file": "en/green-day/greenday-when-i-come-around.md"
   }
 ]
