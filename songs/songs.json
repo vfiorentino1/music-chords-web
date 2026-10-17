@@ -780,5 +780,61 @@
     "artist": "La Vela Puerca",
     "key": "",
     "file": "es/la-vela/la-vela-mi-semilla.md"
+  },
+  {
+    "id": "es-es-redondos-mariposa-pontiac",
+    "title": "Mariposa Pontiac",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "key": "",
+    "file": "es/redondos/mariposa-pontiac.md"
+  },
+  {
+    "id": "es-es-redondos-mi-perro-dinamita",
+    "title": "Mi perro dinamita",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "key": "",
+    "file": "es/redondos/mi-perro-dinamita.md"
+  },
+  {
+    "id": "es-es-redondos-pabellon-en-re",
+    "title": "Pabellón en re",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "key": "",
+    "file": "es/redondos/pabellon-en-re.md"
+  },
+  {
+    "id": "es-es-redondos-redondos-el-pibe-de-los-astilleros",
+    "title": "El pibe de los astilleros",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "key": "",
+    "file": "es/redondos/redondos-el-pibe-de-los-astilleros.md"
+  },
+  {
+    "id": "es-es-redondos-redondos-el-tesoro-de-los-inocentes",
+    "title": "El tesoro de los inocentes",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "key": "",
+    "file": "es/redondos/redondos-el-tesoro-de-los-inocentes.md"
+  },
+  {
+    "id": "es-es-redondos-redondos-es-hora-de-levantarse",
+    "title": "Es hora de levantarse",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "key": "",
+    "file": "es/redondos/redondos-es-hora-de-levantarse.md"
+  },
+  {
+    "id": "es-es-redondos-redondos-etiqueta-negra",
+    "title": "Etiqueta negra",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "key": "",
+    "file": "es/redondos/redondos-etiqueta-negra.md"
+  },
+  {
+    "id": "es-es-redondos-redondos-la-hija-del-fletero",
+    "title": "La hija del fletero",
+    "artist": "Patricio Rey y sus Redonditos de Ricota",
+    "key": "",
+    "file": "es/redondos/redondos-la-hija-del-fletero.md"
   }
 ]
