@@ -1,0 +1,30 @@
+Jesus, don't want me for a sunbeam
+Sunbeams are never made like me
+Don't expect me to cry
+For all the reasons you had to die
+Don't ever ask your love of me
+Don't expect me to cry
+Don't expect me to lie
+Don't expect me to die for thee
+Jesus, don't want me for a sunbeam
+Sunbeams are never made like me
+Don't expect me to cry
+For all the reasons you had to die
+Don't ever ask your love of me
+Don't expect me to cry
+Don't expect me to lie
+Don't expect me to die for thee
+Don't expect me to cry
+Don't expect me to lie
+Don't expect me to die for thee
+Jesus, don't want me for a sunbeam
+Sunbeams are never made like me
+Don't expect me to cry
+For all the reasons you had to die
+Don't ever ask your love of me
+Don't expect me to cry
+Don't expect me to lie
+Don't expect me to die
+Don't expect me to cry
+Don't expect me to lie
+Don't expect me to die for me
