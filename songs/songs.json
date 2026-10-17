@@ -1201,5 +1201,47 @@
     "artist": "Los Olimareños",
     "key": "",
     "file": "es/olimarenos-y-folklore/olimarenos-ta-llorando.md"
+  },
+  {
+    "id": "es-es-pericos-nada-que-perder",
+    "title": "Nada que perder",
+    "artist": "Los Pericos",
+    "key": "",
+    "file": "es/pericos/nada-que-perder.md"
+  },
+  {
+    "id": "es-es-pericos-pericos-pupilas-lejanas",
+    "title": "Pupilas lejanas",
+    "artist": "Los Pericos",
+    "key": "",
+    "file": "es/pericos/pericos-pupilas-lejanas.md"
+  },
+  {
+    "id": "es-es-pericos-pericos-runaway",
+    "title": "Runaway",
+    "artist": "Los Pericos",
+    "key": "",
+    "file": "es/pericos/pericos-runaway.md"
+  },
+  {
+    "id": "es-es-pericos-pericos-sin-cadenas",
+    "title": "Sin cadenas",
+    "artist": "Los Pericos",
+    "key": "",
+    "file": "es/pericos/pericos-sin-cadenas.md"
+  },
+  {
+    "id": "es-es-shakira-acrostico",
+    "title": "Acróstico",
+    "artist": "Shakira",
+    "key": "",
+    "file": "es/shakira/acrostico.md"
+  },
+  {
+    "id": "es-es-shakira-bzrp",
+    "title": "BZRP Music Sessions",
+    "artist": "Shakira",
+    "key": "",
+    "file": "es/shakira/bzrp.md"
   }
 ]
