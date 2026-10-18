@@ -2386,5 +2386,68 @@
     "artist": "Extreme",
     "key": "",
     "file": "en/extreme/more-than-words.md"
+  },
+  {
+    "id": "song-en-oasis-aquiesce",
+    "title": "Aquiesce",
+    "artist": "Oasis",
+    "key": "",
+    "file": "en/oasis/aquiesce.md"
+  },
+  {
+    "id": "song-en-the-offspring-the-kids-arent-alright",
+    "title": "The Kids Aren't Alright",
+    "artist": "The Offspring",
+    "key": "",
+    "file": "en/the-offspring/the-kids-arent-alright.md"
+  },
+  {
+    "id": "song-es-jose-larralde-larralde-pa-que-dentre",
+    "title": "Pa' que dentre",
+    "artist": "José Larralde",
+    "key": "",
+    "file": "es/jose-larralde/larralde-pa-que-dentre.md"
+  },
+  {
+    "id": "song-es-alfredo-zitarrosa-zitarrosa-chamarrita-de-los-milicos",
+    "title": "Chamarrita de los milicos",
+    "artist": "Alfredo Zitarrosa",
+    "key": "",
+    "file": "es/alfredo-zitarrosa/zitarrosa-chamarrita-de-los-milicos.md"
+  },
+  {
+    "id": "song-es-carlos-gardel-gardel-la-cumparsita",
+    "title": "La cumparsita",
+    "artist": "Carlos Gardel",
+    "key": "",
+    "file": "es/carlos-gardel/gardel-la-cumparsita.md"
+  },
+  {
+    "id": "song-es-carlos-gardel-gardel-mano-a-mano",
+    "title": "Mano a mano",
+    "artist": "Carlos Gardel",
+    "key": "",
+    "file": "es/carlos-gardel/gardel-mano-a-mano.md"
+  },
+  {
+    "id": "song-de-rammstein-rammstein-sonne",
+    "title": "Sonne",
+    "artist": "Rammstein",
+    "key": "",
+    "file": "de/rammstein/rammstein-sonne.md"
+  },
+  {
+    "id": "song-it-toto-cutugno-toto-cutugno-litaliano",
+    "title": "L'italiano",
+    "artist": "Toto Cutugno",
+    "key": "",
+    "file": "it/toto-cutugno/toto-cutugno-litaliano.md"
+  },
+  {
+    "id": "song-it-nannini-bennato-un-estate-italiana",
+    "title": "Un'estate italiana",
+    "artist": "Gianna Nannini y Edoardo Bennato",
+    "key": "",
+    "file": "it/nannini-bennato/un-estate-italiana.md"
   }
 ]
