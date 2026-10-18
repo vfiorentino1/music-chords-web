@@ -1,0 +1,369 @@
+{
+  "description": "Preserved alternate song versions, excluded from the main catalog. All markdown files remain in the repository.",
+  "groups": [
+    {
+      "primary": {
+        "id": "flaca",
+        "title": "Flaca",
+        "artist": "Andrés Calamaro",
+        "file": "flaca.md"
+      },
+      "alternates": [
+        {
+          "id": "es-es-calamaro-calamaro-flaca",
+          "title": "Flaca (otra versión)",
+          "artist": "Andrés Calamaro",
+          "key": "",
+          "file": "es/calamaro/calamaro-flaca.md"
+        },
+        {
+          "id": "es-calamaro-flaca-2",
+          "title": "Flaca 2",
+          "artist": "Andrés Calamaro",
+          "file": "es/calamaro/flaca-2.md"
+        }
+      ]
+    },
+    {
+      "primary": {
+        "id": "jose-sabia",
+        "title": "José sabía",
+        "artist": "La Vela Puerca",
+        "file": "jose-sabia.md"
+      },
+      "alternates": [
+        {
+          "id": "es-la-vela-la-vela-jose-sabia",
+          "title": "Jose sabia",
+          "artist": "La vela",
+          "file": "es/la-vela/la-vela-jose-sabia.md"
+        }
+      ]
+    },
+    {
+      "primary": {
+        "id": "prohibido",
+        "title": "Prohibido",
+        "artist": "Callejeros",
+        "file": "prohibido.md"
+      },
+      "alternates": [
+        {
+          "id": "es-es-callejeros-callejeros-prohibido-v2",
+          "title": "Prohibido (versión 2)",
+          "artist": "Callejeros",
+          "key": "",
+          "file": "es/callejeros/callejeros-prohibido-v2.md"
+        }
+      ]
+    },
+    {
+      "primary": {
+        "id": "un-minuto",
+        "title": "Un minuto",
+        "artist": "Callejeros",
+        "file": "un-minuto.md"
+      },
+      "alternates": [
+        {
+          "id": "es-es-callejeros-callejeros-un-minuto-v2",
+          "title": "Un minuto (versión 2)",
+          "artist": "Callejeros",
+          "key": "",
+          "file": "es/callejeros/callejeros-un-minuto-v2.md"
+        }
+      ]
+    },
+    {
+      "primary": {
+        "id": "zafar",
+        "title": "Zafar",
+        "artist": "La Vela Puerca",
+        "file": "zafar.md"
+      },
+      "alternates": [
+        {
+          "id": "es-la-vela-la-vela-zafar",
+          "title": "Zafar",
+          "artist": "La vela",
+          "file": "es/la-vela/la-vela-zafar.md"
+        }
+      ]
+    },
+    {
+      "primary": {
+        "id": "la-vela-el-viejo",
+        "title": "El Viejo",
+        "artist": "La Vela Puerca",
+        "file": "la-vela-el-viejo.md"
+      },
+      "alternates": [
+        {
+          "id": "es-la-vela-la-vela-el-viejo",
+          "title": "El viejo",
+          "artist": "La vela",
+          "file": "es/la-vela/la-vela-el-viejo.md"
+        }
+      ]
+    },
+    {
+      "primary": {
+        "id": "la-vela-va-a-escampar",
+        "title": "Va a Escampar",
+        "artist": "La Vela Puerca",
+        "file": "la-vela-va-a-escampar.md"
+      },
+      "alternates": [
+        {
+          "id": "es-la-vela-la-vela-va-a-escampar",
+          "title": "Va a escampar",
+          "artist": "La vela",
+          "file": "es/la-vela/la-vela-va-a-escampar.md"
+        }
+      ]
+    },
+    {
+      "primary": {
+        "id": "simon-garfunkel-sound-of-silence-am",
+        "title": "The Sound of Silence (Am)",
+        "artist": "Simon & Garfunkel",
+        "file": "simon-garfunkel-sound-of-silence-am.md"
+      },
+      "alternates": [
+        {
+          "id": "simon-garfunkel-sound-of-silence-em",
+          "title": "The Sound of Silence (Em)",
+          "artist": "Simon & Garfunkel",
+          "file": "simon-garfunkel-sound-of-silence-em.md"
+        }
+      ]
+    },
+    {
+      "primary": {
+        "id": "bersuit-el-tiempo-compl",
+        "title": "El tiempo no para (completa)",
+        "artist": "Bersuit Vergarabat",
+        "file": "es/bersuit/el-tiempo-compl.md"
+      },
+      "alternates": [
+        {
+          "id": "bersuit-bersuit-el-tiempo-no-para",
+          "title": "El tiempo no para",
+          "artist": "Bersuit Vergarabat",
+          "file": "es/bersuit/bersuit-el-tiempo-no-para.md"
+        }
+      ]
+    },
+    {
+      "primary": {
+        "id": "bersuit-bersuit-un-pacto",
+        "title": "Un pacto",
+        "artist": "Bersuit Vergarabat",
+        "file": "es/bersuit/bersuit-un-pacto.md"
+      },
+      "alternates": [
+        {
+          "id": "bersuit-bersuit-un-pacto-v2",
+          "title": "Un pacto (versión 2)",
+          "artist": "Bersuit Vergarabat",
+          "file": "es/bersuit/bersuit-un-pacto-v2.md"
+        }
+      ]
+    },
+    {
+      "primary": {
+        "id": "es-es-babasonicos-babasonicos-como-eran-las-cosas",
+        "title": "Como Eran Las Cosas",
+        "artist": "Babasónicos",
+        "key": "",
+        "file": "es/babasonicos/babasonicos-como-eran-las-cosas.md"
+      },
+      "alternates": [
+        {
+          "id": "es-es-babasonicos-como-eran-las-cosas-acoustic",
+          "title": "Cómo eran las cosas (acústica)",
+          "artist": "Babasónicos",
+          "key": "",
+          "file": "es/babasonicos/como-eran-las-cosas-acoustic.md"
+        }
+      ]
+    },
+    {
+      "primary": {
+        "id": "es-es-babasonicos-babasonicos-el-colmo",
+        "title": "El Colmo",
+        "artist": "Babasónicos",
+        "key": "",
+        "file": "es/babasonicos/babasonicos-el-colmo.md"
+      },
+      "alternates": [
+        {
+          "id": "es-es-babasonicos-el-colmo-acousti",
+          "title": "El colmo (acústica)",
+          "artist": "Babasónicos",
+          "key": "",
+          "file": "es/babasonicos/el-colmo-acousti.md"
+        }
+      ]
+    },
+    {
+      "primary": {
+        "id": "es-es-babasonicos-babasonicos-yegua",
+        "title": "Yegua",
+        "artist": "Babasónicos",
+        "key": "",
+        "file": "es/babasonicos/babasonicos-yegua.md"
+      },
+      "alternates": [
+        {
+          "id": "es-es-babasonicos-yegua-acustico",
+          "title": "Yegua (acústica)",
+          "artist": "Babasónicos",
+          "key": "",
+          "file": "es/babasonicos/yegua-acustico.md"
+        }
+      ]
+    },
+    {
+      "primary": {
+        "id": "es-la-renga-la-renga-la-balada-del-diablo-y-la-muerte",
+        "title": "La balada del diablo y la muerte",
+        "artist": "La renga",
+        "file": "es/la-renga/la-renga-la-balada-del-diablo-y-la-muerte.md"
+      },
+      "alternates": [
+        {
+          "id": "es-es-la-renga-la-renga-diablo-y-la-muerte",
+          "title": "La balada del diablo y la muerte (otra versión)",
+          "artist": "La Renga",
+          "key": "",
+          "file": "es/la-renga/la-renga-diablo-y-la-muerte.md"
+        },
+        {
+          "id": "balada-del-diablo-y-la-muerte",
+          "title": "Balada del diablo y la muerte",
+          "artist": "La Renga",
+          "file": "balada-del-diablo-y-la-muerte.md"
+        }
+      ]
+    },
+    {
+      "primary": {
+        "id": "es-es-redondos-redondos-queso-ruso",
+        "title": "Queso ruso",
+        "artist": "Patricio Rey y sus Redonditos de Ricota",
+        "key": "",
+        "file": "es/redondos/redondos-queso-ruso.md"
+      },
+      "alternates": [
+        {
+          "id": "es-es-redondos-redondos-queso-ruso-v2",
+          "title": "Queso ruso (versión 2)",
+          "artist": "Patricio Rey y sus Redonditos de Ricota",
+          "key": "",
+          "file": "es/redondos/redondos-queso-ruso-v2.md"
+        }
+      ]
+    },
+    {
+      "primary": {
+        "id": "es-es-sumo-sumo-white-trash",
+        "title": "White trash",
+        "artist": "Sumo",
+        "key": "",
+        "file": "es/sumo/sumo-white-trash.md"
+      },
+      "alternates": [
+        {
+          "id": "es-es-sumo-sumo-white-trash-v2",
+          "title": "White trash (versión 2)",
+          "artist": "Sumo",
+          "key": "",
+          "file": "es/sumo/sumo-white-trash-v2.md"
+        }
+      ]
+    },
+    {
+      "primary": {
+        "id": "es-es-soda-cerati-cerati-puente",
+        "title": "Puente",
+        "artist": "Gustavo Cerati",
+        "key": "",
+        "file": "es/soda-cerati/cerati-puente.md"
+      },
+      "alternates": [
+        {
+          "id": "es-es-soda-cerati-cerati-puente-2",
+          "title": "Puente (versión 2)",
+          "artist": "Gustavo Cerati",
+          "key": "",
+          "file": "es/soda-cerati/cerati-puente-2.md"
+        }
+      ]
+    },
+    {
+      "primary": {
+        "id": "guns-sweet-child",
+        "title": "Sweet Child O' Mine",
+        "artist": "Guns N' Roses",
+        "file": "guns-sweet-child.md"
+      },
+      "alternates": [
+        {
+          "id": "en-guns-n-roses-guns-sweet-child",
+          "title": "Guns sweet child",
+          "artist": "Guns n roses",
+          "file": "en/guns-n-roses/guns-sweet-child.md"
+        }
+      ]
+    },
+    {
+      "primary": {
+        "id": "guns-dont-cry",
+        "title": "Don't Cry",
+        "artist": "Guns N' Roses",
+        "file": "guns-dont-cry.md"
+      },
+      "alternates": [
+        {
+          "id": "en-guns-n-roses-guns-dont-cry",
+          "title": "Guns dont cry",
+          "artist": "Guns n roses",
+          "file": "en/guns-n-roses/guns-dont-cry.md"
+        }
+      ]
+    },
+    {
+      "primary": {
+        "id": "loco-tu-forma-de-ser",
+        "title": "Loco (tu forma de ser)",
+        "artist": "Los Auténticos Decadentes",
+        "file": "loco-tu-forma-de-ser.md"
+      },
+      "alternates": [
+        {
+          "id": "es-decadantes-los-autenticos-decadentes-loco",
+          "title": "Los autenticos decadentes loco",
+          "artist": "Decadantes",
+          "file": "es/decadantes/los-autenticos-decadentes-loco.md"
+        }
+      ]
+    },
+    {
+      "primary": {
+        "id": "spaghetti-del-rock",
+        "title": "Spaghetti del Rock",
+        "artist": "Divididos",
+        "file": "spaghetti-del-rock.md"
+      },
+      "alternates": [
+        {
+          "id": "es-divididos-divididos-spaguetti",
+          "title": "Spaguetti",
+          "artist": "Divididos",
+          "file": "es/divididos/divididos-spaguetti.md"
+        }
+      ]
+    }
+  ]
+}

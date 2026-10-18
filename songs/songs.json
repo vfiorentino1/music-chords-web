@@ -12,12 +12,6 @@
     "file": "avanti-morocha.md"
   },
   {
-    "id": "balada-del-diablo-y-la-muerte",
-    "title": "Balada del diablo y la muerte",
-    "artist": "La Renga",
-    "file": "balada-del-diablo-y-la-muerte.md"
-  },
-  {
     "id": "clara",
     "title": "Clara",
     "artist": "No Te Va Gustar",
@@ -258,12 +252,6 @@
     "file": "simon-garfunkel-sound-of-silence-am.md"
   },
   {
-    "id": "simon-garfunkel-sound-of-silence-em",
-    "title": "The Sound of Silence (Em)",
-    "artist": "Simon & Garfunkel",
-    "file": "simon-garfunkel-sound-of-silence-em.md"
-  },
-  {
     "id": "guns-sweet-child",
     "title": "Sweet Child O' Mine",
     "artist": "Guns N' Roses",
@@ -286,12 +274,6 @@
     "title": "Cuatro vientos",
     "artist": "Bersuit Vergarabat",
     "file": "es/bersuit/bersuit-cuatro-vientos.md"
-  },
-  {
-    "id": "bersuit-bersuit-el-tiempo-no-para",
-    "title": "El tiempo no para",
-    "artist": "Bersuit Vergarabat",
-    "file": "es/bersuit/bersuit-el-tiempo-no-para.md"
   },
   {
     "id": "bersuit-bersuit-el-viejo-de-arriba",
@@ -334,12 +316,6 @@
     "title": "Negra murguera",
     "artist": "Bersuit Vergarabat",
     "file": "es/bersuit/bersuit-negra-murguera.md"
-  },
-  {
-    "id": "bersuit-bersuit-un-pacto-v2",
-    "title": "Un pacto (versión 2)",
-    "artist": "Bersuit Vergarabat",
-    "file": "es/bersuit/bersuit-un-pacto-v2.md"
   },
   {
     "id": "bersuit-bersuit-un-pacto",
@@ -600,39 +576,11 @@
     "file": "es/babasonicos/babasonicos-yegua.md"
   },
   {
-    "id": "es-es-babasonicos-como-eran-las-cosas-acoustic",
-    "title": "Cómo eran las cosas (acústica)",
-    "artist": "Babasónicos",
-    "key": "",
-    "file": "es/babasonicos/como-eran-las-cosas-acoustic.md"
-  },
-  {
-    "id": "es-es-babasonicos-el-colmo-acousti",
-    "title": "El colmo (acústica)",
-    "artist": "Babasónicos",
-    "key": "",
-    "file": "es/babasonicos/el-colmo-acousti.md"
-  },
-  {
-    "id": "es-es-babasonicos-yegua-acustico",
-    "title": "Yegua (acústica)",
-    "artist": "Babasónicos",
-    "key": "",
-    "file": "es/babasonicos/yegua-acustico.md"
-  },
-  {
     "id": "es-es-calamaro-calamaro-10-anos-despues",
     "title": "10 años después",
     "artist": "Andrés Calamaro",
     "key": "",
     "file": "es/calamaro/calamaro-10-anos-despues.md"
-  },
-  {
-    "id": "es-es-calamaro-calamaro-flaca",
-    "title": "Flaca (otra versión)",
-    "artist": "Andrés Calamaro",
-    "key": "",
-    "file": "es/calamaro/calamaro-flaca.md"
   },
   {
     "id": "es-es-calamaro-calamaro-la-parte-de-adelante",
@@ -691,20 +639,6 @@
     "file": "es/calamaro/yo-no-voy-a-morir.md"
   },
   {
-    "id": "es-es-callejeros-callejeros-prohibido-v2",
-    "title": "Prohibido (versión 2)",
-    "artist": "Callejeros",
-    "key": "",
-    "file": "es/callejeros/callejeros-prohibido-v2.md"
-  },
-  {
-    "id": "es-es-callejeros-callejeros-un-minuto-v2",
-    "title": "Un minuto (versión 2)",
-    "artist": "Callejeros",
-    "key": "",
-    "file": "es/callejeros/callejeros-un-minuto-v2.md"
-  },
-  {
     "id": "es-es-decadantes-el-gran-senor",
     "title": "El gran señor",
     "artist": "Los Auténticos Decadentes",
@@ -724,13 +658,6 @@
     "artist": "Divididos",
     "key": "",
     "file": "es/divididos/divididos-que-ves.md"
-  },
-  {
-    "id": "es-es-la-renga-la-renga-diablo-y-la-muerte",
-    "title": "La balada del diablo y la muerte (otra versión)",
-    "artist": "La Renga",
-    "key": "",
-    "file": "es/la-renga/la-renga-diablo-y-la-muerte.md"
   },
   {
     "id": "es-es-la-renga-la-renga-lo-fragil-d-ela-loc",
@@ -838,64 +765,10 @@
     "file": "es/redondos/redondos-la-hija-del-fletero.md"
   },
   {
-    "id": "en-guns-n-roses-guns-dont-cry",
-    "title": "Guns dont cry",
-    "artist": "Guns n roses",
-    "file": "en/guns-n-roses/guns-dont-cry.md"
-  },
-  {
-    "id": "en-guns-n-roses-guns-sweet-child",
-    "title": "Guns sweet child",
-    "artist": "Guns n roses",
-    "file": "en/guns-n-roses/guns-sweet-child.md"
-  },
-  {
-    "id": "es-calamaro-flaca-2",
-    "title": "Flaca 2",
-    "artist": "Andrés Calamaro",
-    "file": "es/calamaro/flaca-2.md"
-  },
-  {
-    "id": "es-decadantes-los-autenticos-decadentes-loco",
-    "title": "Los autenticos decadentes loco",
-    "artist": "Decadantes",
-    "file": "es/decadantes/los-autenticos-decadentes-loco.md"
-  },
-  {
-    "id": "es-divididos-divididos-spaguetti",
-    "title": "Spaguetti",
-    "artist": "Divididos",
-    "file": "es/divididos/divididos-spaguetti.md"
-  },
-  {
     "id": "es-la-renga-la-renga-la-balada-del-diablo-y-la-muerte",
     "title": "La balada del diablo y la muerte",
     "artist": "La renga",
     "file": "es/la-renga/la-renga-la-balada-del-diablo-y-la-muerte.md"
-  },
-  {
-    "id": "es-la-vela-la-vela-el-viejo",
-    "title": "El viejo",
-    "artist": "La vela",
-    "file": "es/la-vela/la-vela-el-viejo.md"
-  },
-  {
-    "id": "es-la-vela-la-vela-jose-sabia",
-    "title": "Jose sabia",
-    "artist": "La vela",
-    "file": "es/la-vela/la-vela-jose-sabia.md"
-  },
-  {
-    "id": "es-la-vela-la-vela-va-a-escampar",
-    "title": "Va a escampar",
-    "artist": "La vela",
-    "file": "es/la-vela/la-vela-va-a-escampar.md"
-  },
-  {
-    "id": "es-la-vela-la-vela-zafar",
-    "title": "Zafar",
-    "artist": "La vela",
-    "file": "es/la-vela/la-vela-zafar.md"
   },
   {
     "id": "es-es-redondos-redondos-me-matan-limon",
@@ -968,13 +841,6 @@
     "file": "es/redondos/redondos-vencedores-vencidos.md"
   },
   {
-    "id": "es-es-redondos-redondos-queso-ruso-v2",
-    "title": "Queso ruso (versión 2)",
-    "artist": "Patricio Rey y sus Redonditos de Ricota",
-    "key": "",
-    "file": "es/redondos/redondos-queso-ruso-v2.md"
-  },
-  {
     "id": "es-es-sumo-sumo-breaking-away",
     "title": "Breaking away",
     "artist": "Sumo",
@@ -1031,13 +897,6 @@
     "file": "es/sumo/sumo-white-trash.md"
   },
   {
-    "id": "es-es-sumo-sumo-white-trash-v2",
-    "title": "White trash (versión 2)",
-    "artist": "Sumo",
-    "key": "",
-    "file": "es/sumo/sumo-white-trash-v2.md"
-  },
-  {
     "id": "es-es-soda-cerati-cerati-crimen",
     "title": "Crimen",
     "artist": "Gustavo Cerati",
@@ -1050,13 +909,6 @@
     "artist": "Gustavo Cerati",
     "key": "",
     "file": "es/soda-cerati/cerati-puente.md"
-  },
-  {
-    "id": "es-es-soda-cerati-cerati-puente-2",
-    "title": "Puente (versión 2)",
-    "artist": "Gustavo Cerati",
-    "key": "",
-    "file": "es/soda-cerati/cerati-puente-2.md"
   },
   {
     "id": "es-es-soda-cerati-soda-en-la-ciudad-de-la-furia",
