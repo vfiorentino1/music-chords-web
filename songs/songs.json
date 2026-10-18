@@ -2387,5 +2387,61 @@
     "artist": "Pantera",
     "key": "",
     "file": "en/pantera/pantera-cemety-gates.md"
+  },
+  {
+    "id": "en-en-papa-roach-papa-roach-between-angels",
+    "title": "Between Angels and Insects",
+    "artist": "Papa Roach",
+    "key": "",
+    "file": "en/papa-roach/papa-roach-between-angels.md"
+  },
+  {
+    "id": "en-en-pearl-jam-pearl-jam-alive",
+    "title": "Alive",
+    "artist": "Pearl Jam",
+    "key": "",
+    "file": "en/pearl-jam/pearl-jam-alive.md"
+  },
+  {
+    "id": "en-en-pink-floyd-pink-floyd-wish-you-were-here",
+    "title": "Wish You Were Here",
+    "artist": "Pink Floyd",
+    "key": "",
+    "file": "en/pink-floyd/pink-floyd-wish-you-were-here.md"
+  },
+  {
+    "id": "en-en-pixies-pixies-where-is-my-mind",
+    "title": "Where Is My Mind?",
+    "artist": "Pixies",
+    "key": "",
+    "file": "en/pixies/pixies-where-is-my-mind.md"
+  },
+  {
+    "id": "en-en-queen-samcro-bohemian-rapsody",
+    "title": "Bohemian Rhapsody",
+    "artist": "Queen",
+    "key": "",
+    "file": "en/queen/samcro-bohemian-rapsody.md"
+  },
+  {
+    "id": "en-en-radiohead-radiohead-creep",
+    "title": "Creep",
+    "artist": "Radiohead",
+    "key": "",
+    "file": "en/radiohead/radiohead-creep.md"
+  },
+  {
+    "id": "en-en-radiohead-radiohead-high-and-dry",
+    "title": "High and Dry",
+    "artist": "Radiohead",
+    "key": "",
+    "file": "en/radiohead/radiohead-high-and-dry.md"
+  },
+  {
+    "id": "en-en-radiohead-radiohead-karma-police",
+    "title": "Karma Police",
+    "artist": "Radiohead",
+    "key": "",
+    "file": "en/radiohead/radiohead-karma-police.md"
   }
 ]
