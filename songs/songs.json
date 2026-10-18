@@ -2275,5 +2275,61 @@
     "artist": "Gotye",
     "key": "",
     "file": "en/gotye/somebody-that-i-used-to-love.md"
+  },
+  {
+    "id": "en-en-hank-williams-jr-hank-williams-jr-whisky-bent",
+    "title": "Whiskey Bent and Hell Bound",
+    "artist": "Hank Williams Jr.",
+    "key": "",
+    "file": "en/hank-williams-jr/hank-williams-jr-whisky-bent.md"
+  },
+  {
+    "id": "en-en-hank-williams-jr-hank-williams-why-do-you-drink",
+    "title": "Family Tradition",
+    "artist": "Hank Williams Jr.",
+    "key": "",
+    "file": "en/hank-williams-jr/hank-williams-why-do-you-drink.md"
+  },
+  {
+    "id": "en-en-incubus-incubus-drive",
+    "title": "Drive",
+    "artist": "Incubus",
+    "key": "",
+    "file": "en/incubus/incubus-drive.md"
+  },
+  {
+    "id": "en-en-jason-mraz-jason-miraz-im-yours",
+    "title": "I'm Yours",
+    "artist": "Jason Mraz",
+    "key": "",
+    "file": "en/jason-mraz/jason-miraz-im-yours.md"
+  },
+  {
+    "id": "en-en-kanye-west-kanye-west-follow-god",
+    "title": "Follow God",
+    "artist": "Kanye West",
+    "key": "",
+    "file": "en/kanye-west/kanye-west-follow-god.md"
+  },
+  {
+    "id": "en-en-kansas-dust-in-the-wind",
+    "title": "Dust in the Wind",
+    "artist": "Kansas",
+    "key": "",
+    "file": "en/kansas/dust-in-the-wind.md"
+  },
+  {
+    "id": "en-en-limp-bizkit-limp-bizkit-behind-blue-eyes",
+    "title": "Behind Blue Eyes",
+    "artist": "Limp Bizkit",
+    "key": "",
+    "file": "en/limp-bizkit/limp-bizkit-behind-blue-eyes.md"
+  },
+  {
+    "id": "en-en-lynyrd-skynyrd-lynrd-skynrd-simple-man",
+    "title": "Simple Man",
+    "artist": "Lynyrd Skynyrd",
+    "key": "",
+    "file": "en/lynyrd-skynyrd/lynrd-skynrd-simple-man.md"
   }
 ]
