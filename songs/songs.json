@@ -2443,5 +2443,61 @@
     "artist": "Radiohead",
     "key": "",
     "file": "en/radiohead/radiohead-karma-police.md"
+  },
+  {
+    "id": "en-en-ramones-ramones-hey-ho",
+    "title": "Blitzkrieg Bop",
+    "artist": "Ramones",
+    "key": "",
+    "file": "en/ramones/ramones-hey-ho.md"
+  },
+  {
+    "id": "en-en-ramones-ramones-pet-cemetery",
+    "title": "Pet Sematary",
+    "artist": "Ramones",
+    "key": "",
+    "file": "en/ramones/ramones-pet-cemetery.md"
+  },
+  {
+    "id": "en-en-rem-rem-loosing-my-religion",
+    "title": "Losing My Religion",
+    "artist": "R.E.M.",
+    "key": "",
+    "file": "en/rem/rem-loosing-my-religion.md"
+  },
+  {
+    "id": "en-en-saliva-saliva-always",
+    "title": "Always",
+    "artist": "Saliva",
+    "key": "",
+    "file": "en/saliva/saliva-always.md"
+  },
+  {
+    "id": "en-en-scorpions-scorpions-wind-of-change",
+    "title": "Wind of Change",
+    "artist": "Scorpions",
+    "key": "",
+    "file": "en/scorpions/scorpions-wind-of-change.md"
+  },
+  {
+    "id": "en-en-the-doors-the-doors-people-are-strange",
+    "title": "People Are Strange",
+    "artist": "The Doors",
+    "key": "",
+    "file": "en/the-doors/the-doors-people-are-strange.md"
+  },
+  {
+    "id": "en-en-the-rolling-stones-the-rolling-gimme-shelter",
+    "title": "Gimme Shelter",
+    "artist": "The Rolling Stones",
+    "key": "",
+    "file": "en/the-rolling-stones/the-rolling-gimme-shelter.md"
+  },
+  {
+    "id": "en-en-the-rolling-stones-the-rolling-wild-horses",
+    "title": "Wild Horses",
+    "artist": "The Rolling Stones",
+    "key": "",
+    "file": "en/the-rolling-stones/the-rolling-wild-horses.md"
   }
 ]
