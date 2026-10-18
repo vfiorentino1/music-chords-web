@@ -1,0 +1,78 @@
+  Am    C        D          F
+There is a house in New Orleans
+      Am       C      E   
+They call the rising sun
+          Am       C 
+And it's been the ruin
+    D           F
+Of many a poor boys
+     Am      E       Am  C  D  F 
+And God, I know, I'm one
+
+( Am  E  Am  E )
+   Am     C     D     F
+My mother was a tailor
+     Am       C        E 
+She sewed my new blue jeans
+    Am     C     D        F
+My father was a gambling man
+ Am      E      Am  C  D  F  
+Down in New Orleans
+
+( Am  E  Am  E )
+
+[Terceira Parte]
+
+        Am     C       D       F
+Now the only things a gambler needs
+      Am      C       E   
+Is a suitcase and a trunk
+        Am    C    D         F
+And the only time he's satisfied
+     Am      E     Am  C  D  F  
+Is when he's all drunk
+ Am     C                 D  F
+Oh, mother!   Tell your children
+        Am     C       E    
+Not to do what I have done
+  Am        C        D           F
+Spend your lives in sin and misery
+        Am           E      Am  C  D  F 
+In the house of the rising sun
+ 
+( Am  E  Am  E )
+
+[Quinta Parte]
+
+               Am      
+Well, I've got one foot 
+C        D      F
+On the platform
+    Am         C        E   
+The other foot on the train
+     Am    C       D          F
+I'm going back to New Orleans
+    Am       E         Am  C  D  F  
+To wear the ball and chain
+
+( Am  E  Am  E )
+
+[Primera Parte]
+
+            Am    C    
+Well, there is a house
+    D          F
+In New Orleans
+      Am       C      E   
+They call the rising sun
+          Am       C 
+And it's been the ruin
+    D           F
+Of many a poor boys
+     Am      E       Am 
+And God, I know, I'm one
+
+[Final] Am  C  D  F  
+        Am  E  Am  Dm 
+        Am  Dm  Am  Dm 
+        Am  Dm  Am  Dm  Am9

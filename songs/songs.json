@@ -2107,5 +2107,61 @@
     "artist": "The Cranberries",
     "key": "",
     "file": "en/the-cranberries/cranberries-zombie.md"
+  },
+  {
+    "id": "en-en-the-cranberries-cranberries-my-imagination",
+    "title": "My Imagination",
+    "artist": "The Cranberries",
+    "key": "",
+    "file": "en/the-cranberries/cranberries-my-imagination.md"
+  },
+  {
+    "id": "en-en-3-doors-down-3-doors-down-without-you",
+    "title": "Here Without You",
+    "artist": "3 Doors Down",
+    "key": "",
+    "file": "en/3-doors-down/3-doors-down-without-you.md"
+  },
+  {
+    "id": "en-en-arctic-monkeys-do-i-wanna-know-acoustic",
+    "title": "Do I Wanna Know?",
+    "artist": "Arctic Monkeys",
+    "key": "",
+    "file": "en/arctic-monkeys/do-i-wanna-know-acoustic.md"
+  },
+  {
+    "id": "en-en-the-animals-animals-house-of-the-rising-sun",
+    "title": "House of the Rising Sun",
+    "artist": "The Animals",
+    "key": "",
+    "file": "en/the-animals/animals-house-of-the-rising-sun.md"
+  },
+  {
+    "id": "en-en-billy-joel-billy-joe-piano-man",
+    "title": "Piano Man",
+    "artist": "Billy Joel",
+    "key": "",
+    "file": "en/billy-joel/billy-joe-piano-man.md"
+  },
+  {
+    "id": "en-en-black-label-society-black-label-s-stillborn",
+    "title": "Stillborn",
+    "artist": "Black Label Society",
+    "key": "",
+    "file": "en/black-label-society/black-label-s-stillborn.md"
+  },
+  {
+    "id": "en-en-bob-dylan-bob-dylan-all-around-the-watchtower",
+    "title": "All Along the Watchtower",
+    "artist": "Bob Dylan",
+    "key": "",
+    "file": "en/bob-dylan/bob-dylan-all-around-the-watchtower.md"
+  },
+  {
+    "id": "en-en-bob-marley-bob-marley-redemption-song",
+    "title": "Redemption Song",
+    "artist": "Bob Marley",
+    "key": "",
+    "file": "en/bob-marley/bob-marley-redemption-song.md"
   }
 ]
