@@ -2163,5 +2163,61 @@
     "artist": "Bob Marley",
     "key": "",
     "file": "en/bob-marley/bob-marley-redemption-song.md"
+  },
+  {
+    "id": "en-en-the-beatles-the-beatles-hey-jude",
+    "title": "Hey Jude",
+    "artist": "The Beatles",
+    "key": "",
+    "file": "en/the-beatles/the-beatles-hey-jude.md"
+  },
+  {
+    "id": "en-en-the-beatles-the-beatles-i-want-to-hold-your-hand",
+    "title": "I Want to Hold Your Hand",
+    "artist": "The Beatles",
+    "key": "",
+    "file": "en/the-beatles/the-beatles-i-want-to-hold-your-hand.md"
+  },
+  {
+    "id": "en-en-the-beatles-the-beatles-let-it-be",
+    "title": "Let It Be",
+    "artist": "The Beatles",
+    "key": "",
+    "file": "en/the-beatles/the-beatles-let-it-be.md"
+  },
+  {
+    "id": "en-en-the-beatles-the-beatles-yesterday",
+    "title": "Yesterday",
+    "artist": "The Beatles",
+    "key": "",
+    "file": "en/the-beatles/the-beatles-yesterday.md"
+  },
+  {
+    "id": "en-en-bon-jovi-bon-jovi-its-my-life",
+    "title": "It's My Life",
+    "artist": "Bon Jovi",
+    "key": "",
+    "file": "en/bon-jovi/bon-jovi-its-my-life.md"
+  },
+  {
+    "id": "en-en-breaking-benjamin-breaking-benjamin-so-cold",
+    "title": "So Cold",
+    "artist": "Breaking Benjamin",
+    "key": "",
+    "file": "en/breaking-benjamin/breaking-benjamin-so-cold.md"
+  },
+  {
+    "id": "en-en-creedence-clearwater-revival-creedence-proud-mary",
+    "title": "Proud Mary",
+    "artist": "Creedence Clearwater Revival",
+    "key": "",
+    "file": "en/creedence-clearwater-revival/creedence-proud-mary.md"
+  },
+  {
+    "id": "en-en-daft-punk-daft-punk-get-lucky",
+    "title": "Get Lucky",
+    "artist": "Daft Punk",
+    "key": "",
+    "file": "en/daft-punk/daft-punk-get-lucky.md"
   }
 ]
