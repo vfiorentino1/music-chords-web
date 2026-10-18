@@ -2331,5 +2331,61 @@
     "artist": "Lynyrd Skynyrd",
     "key": "",
     "file": "en/lynyrd-skynyrd/lynrd-skynrd-simple-man.md"
+  },
+  {
+    "id": "en-en-lynyrd-skynyrd-lynyrd-synyrd-sweet-home-alabama",
+    "title": "Sweet Home Alabama",
+    "artist": "Lynyrd Skynyrd",
+    "key": "",
+    "file": "en/lynyrd-skynyrd/lynyrd-synyrd-sweet-home-alabama.md"
+  },
+  {
+    "id": "en-en-men-at-work-men-at-work-down-under",
+    "title": "Down Under",
+    "artist": "Men at Work",
+    "key": "",
+    "file": "en/men-at-work/men-at-work-down-under.md"
+  },
+  {
+    "id": "en-en-metallica-metallica-the-unforgiven",
+    "title": "The Unforgiven",
+    "artist": "Metallica",
+    "key": "",
+    "file": "en/metallica/metallica-the-unforgiven.md"
+  },
+  {
+    "id": "en-en-neil-young-neil-young-heart-of-gold",
+    "title": "Heart of Gold",
+    "artist": "Neil Young",
+    "key": "",
+    "file": "en/neil-young/neil-young-heart-of-gold.md"
+  },
+  {
+    "id": "en-en-neil-young-neil-young-keep-on-rocking",
+    "title": "Rockin' in the Free World",
+    "artist": "Neil Young",
+    "key": "",
+    "file": "en/neil-young/neil-young-keep-on-rocking.md"
+  },
+  {
+    "id": "en-en-nickelback-nickelback-how-you-remind-me",
+    "title": "How You Remind Me",
+    "artist": "Nickelback",
+    "key": "",
+    "file": "en/nickelback/nickelback-how-you-remind-me.md"
+  },
+  {
+    "id": "en-en-oliver-anthony-oliver-anthony-richmen-north",
+    "title": "Rich Men North of Richmond",
+    "artist": "Oliver Anthony",
+    "key": "",
+    "file": "en/oliver-anthony/oliver-anthony-richmen-north.md"
+  },
+  {
+    "id": "en-en-pantera-pantera-cemety-gates",
+    "title": "Cemetery Gates",
+    "artist": "Pantera",
+    "key": "",
+    "file": "en/pantera/pantera-cemety-gates.md"
   }
 ]
