@@ -2499,5 +2499,40 @@
     "artist": "The Rolling Stones",
     "key": "",
     "file": "en/the-rolling-stones/the-rolling-wild-horses.md"
+  },
+  {
+    "id": "en-en-the-white-stripes-the-white-stripes-seven-nation-army",
+    "title": "Seven Nation Army",
+    "artist": "The White Stripes",
+    "key": "",
+    "file": "en/the-white-stripes/the-white-stripes-seven-nation-army.md"
+  },
+  {
+    "id": "en-en-chris-isaak-wicked",
+    "title": "Wicked Game",
+    "artist": "Chris Isaak",
+    "key": "",
+    "file": "en/chris-isaak/wicked.md"
+  },
+  {
+    "id": "en-en-dr-dre-still-dr-dre",
+    "title": "Still D.R.E.",
+    "artist": "Dr. Dre",
+    "key": "",
+    "file": "en/dr-dre/still-dr-dre.md"
+  },
+  {
+    "id": "en-en-dolly-parton-jolene",
+    "title": "Jolene",
+    "artist": "Dolly Parton",
+    "key": "",
+    "file": "en/dolly-parton/jolene.md"
+  },
+  {
+    "id": "en-en-extreme-more-than-words",
+    "title": "More Than Words",
+    "artist": "Extreme",
+    "key": "",
+    "file": "en/extreme/more-than-words.md"
   }
 ]
