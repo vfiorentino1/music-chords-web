@@ -1,25 +1,132 @@
-capo 3 
-
-Asus2                             Dsus2
-   Never made it as a wise man
-G                      C
-    I couldn't cut it as a poor man stealing
-Asus2                             Dsus2
-   Tired of living like a blind man
-G                                  C
-    I'm sick of sight without a sense of feeling
-Asus2             Dsus2                 G
-And this is how        you remind me
-
-Asus2             Dsus2                G 
-   This is how    you remind me
-        C
-Of what I really am
-asus2                   Dsus2    G
-   This is how    you remind me
-        C
-Of what I really am
 
 
+Bm                  E
+ Never made it as a wise man
+Asus2                    Dsus2
+  I couldn't cut it as a poor man stealin'
+Bm                    E
+ Tired livin' like a blind man
+Asus2                        Dsus2
+  I'm sick inside without a sense of feelin'
+Bm           Dsus2     Asus2
+And this is how you remind me
+Bm        E         Asus2          Dsus2
+ This is how you remind me of what I really am
+Bm        E         Asus2          Dsus2
+ This is how you remind me of what I really am
+Bm                Dsus2
+ It's not like you   to say sorry
+Asus2                 E
+ Always waitin' on a different story
+Bm             Dsus2
+ This time I'm   mistaken
+Asus2                 E
+  For handin' you a heart worth breaking
+Bm                  Dsus2
+And I've been wrong   I've been down
+Asus               E
+ To the bottom of every bottle
+Bm            Dsus2       Asus2                E
+  These five words in my head  scream "Are we havin' fun yet?"
+Bm    E    Asus2
+  Yet, yet, yet
+Dsus2
+ No, no
+Bm    E    Asus2
+  Yet, yet, yet
+Dsus2
+ No, no
+Bm                          E
+ It's not like you didn't know that
+Asus2                     Dsus2
+ I said I love you and I swear I still do
+Bm                      E
+ And it must have been so bad
+Asus2                           Dsus2
+ Cause livin with me must have damn near killed you
+Bm        E         Asus2          Dsus2
+ This is how you remind me of what I really am
+Bm        E         Asus2          Dsus2
+ This is how you remind me of what I really am
+Bm                Dsus2
+ It's not like you   to say sorry
+Asus2                 E
+ Always waitin' on a different story
+Bm             Dsus2
+ This time I'm   mistaken
+Asus2                 E
+  For handin' you a heart worth breaking
+Bm                  Dsus2
+And I've been wrong   I've been down
+Asus               E
+ To the bottom of every bottle
+Bm            Dsus2       Asus2                E
+  These five words in my head  scream "Are we havin' fun yet?"
+ 
+ 
+[Bridge]
+Bm    E    Asus2
+  Yet, yet, yet
+Dsus2
+ No, no
+Bm    E    Asus2
+  Yet, yet, yet
+Dsus2
+ No, no
+ 
+ 
+[Interlude]
+ 
+| Bm        | Asus2 Dsus2 |
+ 
+ 
+[Verse 3]
+Bm                  E
+ Never made it as a wise man
+Asus2                    Dsus2
+  I couldn't cut it as a poor man stealin'
+Bm            Dsus2    Asus2
+And this is how you remind me
+Bm            Dsus2    Asus2
+And this is how you remind me
+Bm        E         Asus2          Dsus2
+ This is how you remind me of what I really am
+Bm        E         Asus2          Dsus2
+ This is how you remind me of what I really am
+ 
+ 
+[Chorus]
+Bm                Dsus2
+ It's not like you   to say sorry
+Asus2                 E
+ Always waitin' on a different story
+Bm             Dsus2
+ This time I'm   mistaken
+Asus2
+  For handin' you a heart worth breaking
+Bm                  Dsus2
+And I've been wrong   I've been down
+Asus               E
+ To the bottom of every bottle
+Bm            Dsus2       Asus2                E
+  These five words in my head  scream "Are we havin' fun yet?"
+ 
+ 
+[Outro]
+Bm    Dsus2  Asus2
+  Yet,  yet,  yet
+E
+ No, no
+Bm    Dsus2  Asus2
+  Yet,  yet,  yet
+E
+ No, no
+Bm    Dsus2  Asus2
+  Yet,  yet,  yet
+E
+ No, no
+Bm    Dsus2  Asus2
+  Yet,  yet,  yet...  No, no 
+X
 
-Never made it as a wise man I couldn't cut it as a poor man stealing Tired of living like a blind man I'm sick of sight without a sense of feeling And this is how you remind me This is how you remind me of what I really am This is how you remind me of what I really am It's not like you to say sorry I was waiting on a different story This time I'm mistaken For handing you a heart worth breaking And I've been wrong I've been down Into the bottom of every bottle These five words in my head scream Are we having fun yet Yet, yet, yet, no no Yet, yet, yet, no no It's not like you didn't know that I said I love you and I swear I still do And it must have been so bad 'Cause living with him must have damn near killed you And this is how you remind me of what I really am This is how you remind me of what I really am It's not like you to say sorry I was waiting on a different story This time I'm mistaken For handing you a heart worth breaking And I've been wrong I've been down Into the bottom of every bottle These five words in my head, scream Are we having fun yet Yet, yet, yet, no no Yet, yet, yet, no no Yet, yet, yet, no no Yet, yet, yet, no no Never made it as a wise man I couldn't cut it as a poor man stealing And this is how you remind me This is how you remind me This is how you remind me of what I really am This is how you remind me of what I really am It's not like you to say sorry I was waiting on a different story This time I'm mistaken For handing you a heart worth breaking And I've been wrong I've been down Into the bottom of every bottle These five words in my head, scream Are we having fun yet Yet, yet Are we having fun yet Yet, yet Are we having fun yet Yet, yet Are we having fun yet Yet, yet, no, no 
+Please rate this tab
